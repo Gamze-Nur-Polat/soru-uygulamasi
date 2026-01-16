@@ -1,0 +1,1545 @@
+[
+  {
+    "konuAdi": "Anayasa - Genel Esaslar",
+    "soruMetni": "1982 Anayasasına göre, Türkiye Devleti'nin yönetim şekli nedir?",
+    "a": "Monarşi", "b": "Oligarşi", "c": "Cumhuriyet", "d": "Teokrasi",
+    "cevap": "Cumhuriyet"
+  },
+  {
+    "konuAdi": "Anayasa - Genel Esaslar",
+    "soruMetni": "Egemenlik kayıtsız şartsız kime aittir?",
+    "a": "Cumhurbaşkanı", "b": "TBMM", "c": "Millet", "d": "Ordu",
+    "cevap": "Millet"
+  },
+  {
+    "konuAdi": "Anayasa - Genel Esaslar",
+    "soruMetni": "Anayasamızın değiştirilemeyecek hükümlerine göre Devletin dili nedir?",
+    "a": "Osmanlıca", "b": "Türkçe", "c": "Arapça", "d": "İngilizce",
+    "cevap": "Türkçe"
+  },
+  {
+    "konuAdi": "Anayasa - Temel Hak ve Ödevler",
+    "soruMetni": "Hiç kimse zorla çalıştırılamaz. Angarya yasaktır. Bu hangi hakkın tanımıdır?",
+    "a": "Kişi hürriyeti", "b": "Zorla çalıştırma yasağı", "c": "Çalışma hakkı", "d": "Sendika hakkı",
+    "cevap": "Zorla çalıştırma yasağı"
+  },
+  {
+    "konuAdi": "Devletin Temel Organları",
+    "soruMetni": "TBMM genel seçimleri kaç yılda bir yapılır?",
+    "a": "4", "b": "5", "c": "3", "d": "7",
+    "cevap": "5"
+  },
+  {
+    "konuAdi": "657 Sayılı DMK",
+    "soruMetni": "Devlet memurluğundan çıkarma cezasını kim verir?",
+    "a": "Vali", "b": "Yüksek Disiplin Kurulu", "c": "Amir", "d": "Bakan",
+    "cevap": "Yüksek Disiplin Kurulu"
+  },
+  {
+    "konuAdi": "657 Sayılı DMK",
+    "soruMetni": "Memurların haftalık çalışma süresi genel olarak kaç saattir?",
+    "a": "35", "b": "40", "c": "45", "d": "50",
+    "cevap": "40"
+  },
+  {
+    "konuAdi": "657 Sayılı DMK",
+    "soruMetni": "Aday memurluk süresi en az ne kadar olabilir?",
+    "a": "3 ay", "b": "6 ay", "c": "1 yıl", "d": "2 yıl",
+    "cevap": "1 yıl"
+  },
+  {
+    "konuAdi": "İnkılap Tarihi",
+    "soruMetni": "Cumhuriyet hangi tarihte ilan edilmiştir?",
+    "a": "1919", "b": "1920", "c": "1922", "d": "1923",
+    "cevap": "1923"
+  },
+  {
+    "konuAdi": "Resmi Yazışma Kuralları",
+    "soruMetni": "Resmi yazılarda tarih nereye yazılır?",
+    "a": "Sol üst", "b": "Sağ üst", "c": "Sağ alt", "d": "Ortaya",
+    "cevap": "Sağ üst"
+  },
+  {
+    "konuAdi": "Türkçe Dil Bilgisi",
+    "soruMetni": "Hangi kelimenin yazımı doğrudur?",
+    "a": "Herkez", "b": "Herkes", "c": "Her kez", "d": "Herges",
+    "cevap": "Herkes"
+  },
+  {
+    "konuAdi": "Halkla İlişkiler ve Etik",
+    "soruMetni": "Kamu görevlileri etik kurulu üyelerini kim seçer?",
+    "a": "TBMM", "b": "Cumhurbaşkanı", "c": "Bakanlar Kurulu", "d": "Yargıtay",
+    "cevap": "Cumhurbaşkanı"
+  },
+  {
+    "konuAdi": "Bilgi Edinme Hakkı",
+    "soruMetni": "Kurumlar bilgi edinme başvurusuna kaç iş günü içinde cevap vermelidir?",
+    "a": "7", "b": "10", "c": "15", "d": "30",
+    "cevap": "15"
+  },
+  {
+    "konuAdi": "Genel Esaslar",
+    "soruMetni": "1982 Anayasası'nın 'Başlangıç' metni ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "a": "Anayasa metnine dahildir.",
+    "b": "Anayasa'nın değiştirilemeyecek hükümlerinden biridir.",
+    "c": "Anayasa Mahkemesi anayasallık denetiminde Başlangıç metnini ölçü norm olarak kullanır.",
+    "d": "1995 ve 2001 yıllarında Başlangıç metninde değişiklikler yapılmıştır.",
+    "cevap": "Anayasa'nın değiştirilemeyecek hükümlerinden biridir."
+  },
+  {
+    "konuAdi": "Genel Esaslar",
+    "soruMetni": "1982 Anayasası'na göre, aşağıdakilerden hangisi Cumhuriyetin nitelikleri arasında sayılmamıştır?",
+    "a": "İnsan haklarına saygılı devlet",
+    "b": "Atatürk milliyetçiliğine bağlı devlet",
+    "c": "Demokratik devlet",
+    "d": "Çoğulcu devlet",
+    "cevap": "Çoğulcu devlet"
+  },
+  {
+    "konuAdi": "Temel Hak ve Ödevler",
+    "soruMetni": "Temel hak ve hürriyetlerin sınırlanması ile ilgili aşağıdaki ifadelerden hangisi 1982 Anayasası'nın 13. maddesine göre yanlıştır?",
+    "a": "Sınırlama ancak kanunla yapılabilir.",
+    "b": "Sınırlama Anayasa'nın ilgili maddesinde belirtilen sebeplere bağlı kalmak zorundadır.",
+    "c": "Sınırlamalar demokratik toplum düzeninin gereklerine aykırı olamaz.",
+    "d": "Sınırlamalar genel sınırlama sebeplerine dayanılarak yapılabilir.",
+    "cevap": "Sınırlamalar genel sınırlama sebeplerine dayanılarak yapılabilir."
+  },
+  {
+    "konuAdi": "Yasama",
+    "soruMetni": "Türkiye Büyük Millet Meclisi seçimleri ile ilgili olarak, seçimlerin geriye bırakılması (ertelenmesi) sebebi aşağıdakilerden hangisidir?",
+    "a": "Sadece savaş sebebiyle 1 yıl",
+    "b": "Savaş ve doğal afet sebebiyle 1 yıl",
+    "c": "Olağanüstü hal ve savaş sebebiyle 6 ay",
+    "d": "Sadece ekonomik kriz sebebiyle 1 yıl",
+    "cevap": "Sadece savaş sebebiyle 1 yıl"
+  },
+  {
+    "konuAdi": "Yasama",
+    "soruMetni": "Milletvekili dokunulmazlığı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "a": "Dokunulmazlık, milletvekilinin ömür boyu yargılanmasını engeller.",
+    "b": "Ağır cezayı gerektiren suçüstü hali dokunulmazlık kapsamı dışındadır.",
+    "c": "Meclis kararı olmadan milletvekili hiçbir şekilde sorguya çekilemez.",
+    "d": "Dokunulmazlık sadece yasama sorumsuzluğunu kapsar.",
+    "cevap": "Ağır cezayı gerektiren suçüstü hali dokunulmazlık kapsamı dışındadır."
+  },
+  {
+    "konuAdi": "Yürütme",
+    "soruMetni": "1982 Anayasası'na göre, Cumhurbaşkanlığı Kararnameleri ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "a": "Yürütme yetkisine ilişkin konularda çıkarılabilir.",
+    "b": "Anayasada münhasıran kanunla düzenlenmesi öngörülen konularda kararname çıkarılamaz.",
+    "c": "Temel haklar, kişi hakları ve ödevleri ile siyasi haklar ve ödevler düzenlenebilir.",
+    "d": "Kanunda açıkça düzenlenen konularda Cumhurbaşkanlığı Kararnamesi çıkarılamaz.",
+    "cevap": "Temel haklar, kişi hakları ve ödevleri ile siyasi haklar ve ödevler düzenlenebilir."
+  },
+  {
+    "konuAdi": "Yürütme",
+    "soruMetni": "Olağanüstü Hal (OHAL) ilanı yetkisi kime aittir ve süresi en fazla ne kadardır?",
+    "a": "TBMM - 3 Ay",
+    "b": "Cumhurbaşkanı - 6 Ay",
+    "c": "İçişleri Bakanı - 1 Ay",
+    "d": "Milli Güvenlik Kurulu - 6 Ay",
+    "cevap": "Cumhurbaşkanı - 6 Ay"
+  },
+  {
+    "konuAdi": "Yargı",
+    "soruMetni": "Anayasa Mahkemesi'ne bireysel başvuru hakkı ile ilgili olarak aşağıdakilerden hangisi söylenebilir?",
+    "a": "Herkes, Anayasa'da güvence altına alınmış temel hak ve özgürlüklerinden, Avrupa İnsan Hakları Sözleşmesi kapsamındaki herhangi birinin kamu gücü tarafından ihlal edildiği iddiasıyla başvurabilir.",
+    "b": "Sadece siyasi partiler başvurabilir.",
+    "c": "Doğrudan Yargıtay'a başvurulur.",
+    "d": "İdari işlemler için doğrudan başvurulabilir.",
+    "cevap": "Herkes, Anayasa'da güvence altına alınmış temel hak ve özgürlüklerinden, Avrupa İnsan Hakları Sözleşmesi kapsamındaki herhangi birinin kamu gücü tarafından ihlal edildiği iddiasıyla başvurabilir."
+  },
+  {
+    "konuAdi": "Yargı",
+    "soruMetni": "Hakimler ve Savcılar Kurulu'nun (HSK) üyelerinin seçimi ile ilgili aşağıdaki eşleşmelerden hangisi doğrudur?",
+    "a": "Tüm üyeleri Cumhurbaşkanı seçer.",
+    "b": "Üyelerin bir kısmını Cumhurbaşkanı, bir kısmını TBMM seçer.",
+    "c": "Tüm üyeleri Yargıtay seçer.",
+    "d": "Üyelerin yarısını Adalet Bakanı atar.",
+    "cevap": "Üyelerin bir kısmını Cumhurbaşkanı, bir kısmını TBMM seçer."
+  },
+  {
+    "konuAdi": "Yargı",
+    "soruMetni": "Yüce Divan sıfatıyla yargılama yapma yetkisi hangi yüksek mahkemeye aittir?",
+    "a": "Yargıtay",
+    "b": "Danıştay",
+    "c": "Anayasa Mahkemesi",
+    "d": "Uyuşmazlık Mahkemesi",
+    "cevap": "Anayasa Mahkemesi"
+  },
+  {
+    "konuAdi": "Genel Esaslar",
+    "soruMetni": "1982 Anayasası'na göre egemenlik yetkisinin kullanılması ile ilgili olarak, 'Egemenliğin kullanılması, hiçbir surette hiçbir ..., ... veya ... bırakılamaz.' cümlesindeki boşluklara sırasıyla ne gelmelidir?",
+    "a": "kişiye, zümreye, sınıfa",
+    "b": "partiye, derneğe, vakfa",
+    "c": "askere, polise, memura",
+    "d": "yabancıya, şirkete, kuruma",
+    "cevap": "kişiye, zümreye, sınıfa"
+  },
+  {
+    "konuAdi": "Temel Hak ve Ödevler",
+    "soruMetni": "Siyasi partilerin mali denetimi aşağıdakilerden hangisi tarafından yapılır?",
+    "a": "Sayıştay",
+    "b": "Anayasa Mahkemesi",
+    "c": "Yargıtay Cumhuriyet Başsavcılığı",
+    "d": "Maliye Bakanlığı",
+    "cevap": "Anayasa Mahkemesi"
+  },
+  {
+    "konuAdi": "Yasama",
+    "soruMetni": "TBMM Genel Kurulu'nda bir kanunun kabul edilmesi için gereken karar yeter sayısı, kural olarak aşağıdakilerden hangisidir?",
+    "a": "Üye tamsayısının salt çoğunluğu",
+    "b": "Toplantıya katılanların salt çoğunluğu (üye tamsayısının dörtte birinin bir fazlasından az olmamak kaydıyla)",
+    "c": "Üye tamsayısının üçte iki çoğunluğu",
+    "d": "Toplantıya katılanların üçte iki çoğunluğu",
+    "cevap": "Toplantıya katılanların salt çoğunluğu (üye tamsayısının dörtte birinin bir fazlasından az olmamak kaydıyla)"
+  },
+  {
+    "konuAdi": "Yürütme",
+    "soruMetni": "Devlet Denetleme Kurulu (DDK) aşağıdakilerden hangisine bağlı olarak çalışır ve üyelerini kim atar?",
+    "a": "TBMM Başkanlığı - TBMM",
+    "b": "Cumhurbaşkanlığı - Cumhurbaşkanı",
+    "c": "Başbakanlık - Başbakan",
+    "d": "Adalet Bakanlığı - HSK",
+    "cevap": "Cumhurbaşkanlığı - Cumhurbaşkanı"
+  },
+  {
+    "konuAdi": "Yargı",
+    "soruMetni": "İdari yargı alanında genel görevli en üst mahkeme aşağıdakilerden hangisidir?",
+    "a": "Yargıtay",
+    "b": "Anayasa Mahkemesi",
+    "c": "Danıştay",
+    "d": "Sayıştay",
+    "cevap": "Danıştay"
+  },
+
+    {
+      "konuAdi": "Trablusgarp Savaşı",
+      "soruMetni": "Osmanlı Devleti'nin Kuzey Afrika'daki son toprak parçasını kaybettiği ve Mustafa Kemal'in 'Binbaşı' rütbesine terfi ettiği savaş ile bu savaş sonunda imzalanan antlaşma aşağıdakilerden hangisinde doğru eşleştirilmiştir?",
+      "a": "I. Balkan Savaşı - Londra Antlaşması",
+      "b": "Trablusgarp Savaşı - Uşi Antlaşması",
+      "c": "II. Balkan Savaşı - Bükreş Antlaşması",
+      "d": "Dömeke Meydan Savaşı - İstanbul Antlaşması",
+      "cevap": "Trablusgarp Savaşı - Uşi Antlaşması"
+    },
+    {
+      "konuAdi": "I. Dünya Savaşı",
+      "soruMetni": "I. Dünya Savaşı sırasında Osmanlı Devleti'nin toprak kazandığı tek cephe hangisidir ve bu cephede hangi antlaşma ile toprak kazanılmıştır?",
+      "a": "Kafkas Cephesi - Brest Litovsk Antlaşması",
+      "b": "Çanakkale Cephesi - Mondros Ateşkesi",
+      "c": "Irak Cephesi - Kut'ül Amare Zaferi",
+      "d": "Galiçya Cephesi - Versay Antlaşması",
+      "cevap": "Kafkas Cephesi - Brest Litovsk Antlaşması"
+    },
+    {
+      "konuAdi": "Milli Mücadele Hazırlık Dönemi",
+      "soruMetni": "Amasya Genelgesi'nde yer alan 'Milletin bağımsızlığını yine milletin azim ve kararı kurtaracaktır.' maddesi ile aşağıdakilerden hangisi ilk kez vurgulanmıştır?",
+      "a": "Milli Egemenlik",
+      "b": "Manda ve Himaye",
+      "c": "Kapitülasyonlar",
+      "d": "Misak-ı Milli",
+      "cevap": "Milli Egemenlik"
+    },
+    {
+      "konuAdi": "Erzurum Kongresi",
+      "soruMetni": "Erzurum Kongresi'nde alınan 'Manda ve himaye kabul olunamaz.' kararı ile aşağıdakilerden hangisine ilk kez açıkça karşı çıkılmıştır?",
+      "a": "Saltanat yönetimine",
+      "b": "Azınlık haklarına",
+      "c": "Tam bağımsızlığa aykırı dış politikalara",
+      "d": "Osmanlı Mebusan Meclisi'ne",
+      "cevap": "Tam bağımsızlığa aykırı dış politikalara"
+    },
+    {
+      "konuAdi": "Misak-ı Milli",
+      "soruMetni": "Son Osmanlı Mebusan Meclisi'nde kabul edilen Misak-ı Milli kararlarında, aşağıdaki konulardan hangisi ile ilgili bir hüküm yer almamıştır?",
+      "a": "Kapitülasyonlar",
+      "b": "Boğazlar",
+      "c": "Ulusal Egemenlik",
+      "d": "Azınlık Hakları",
+      "cevap": "Ulusal Egemenlik"
+    },
+    {
+      "konuAdi": "TBMM Dönemi",
+      "soruMetni": "I. TBMM'nin kabul ettiği ilk kanun aşağıdakilerden hangisidir?",
+      "a": "Hıyanet-i Vataniye Kanunu",
+      "b": "Ağnam Resmi Kanunu",
+      "c": "Teşkilat-ı Esasiye Kanunu",
+      "d": "Firariler Kanunu",
+      "cevap": "Ağnam Resmi Kanunu"
+    },
+    {
+      "konuAdi": "Kurtuluş Savaşı Muharebeler",
+      "soruMetni": "Mustafa Kemal Paşa'nın 'Siz orada sadece düşmanı değil, milletin makus talihini de yendiniz.' sözünü hangi savaş sonrasında İsmet Paşa'ya telgraf çekerek söylemiştir?",
+      "a": "I. İnönü Savaşı",
+      "b": "II. İnönü Savaşı",
+      "c": "Sakarya Meydan Muharebesi",
+      "d": "Büyük Taarruz",
+      "cevap": "II. İnönü Savaşı"
+    },
+    {
+      "konuAdi": "Diplomatik Dönem",
+      "soruMetni": "Kurtuluş Savaşı devam ederken TBMM'yi tanıyan ilk İtilaf devleti hangisidir ve hangi antlaşma ile tanımıştır?",
+      "a": "Fransa - Ankara Antlaşması",
+      "b": "İtalya - Londra Konferansı",
+      "c": "Rusya - Moskova Antlaşması",
+      "d": "İngiltere - Mudanya Ateşkesi",
+      "cevap": "Fransa - Ankara Antlaşması"
+    },
+    {
+      "konuAdi": "Lozan Barış Antlaşması",
+      "soruMetni": "Lozan Barış Antlaşması'nda çözüme kavuşturulamayıp sonraya bırakılan tek konu aşağıdakilerden hangisidir?",
+      "a": "Kapitülasyonlar",
+      "b": "Musul Sorunu (Irak Sınırı)",
+      "c": "Boğazlar",
+      "d": "Dış Borçlar",
+      "cevap": "Musul Sorunu (Irak Sınırı)"
+    },
+    {
+      "konuAdi": "Siyasi İnkılaplar",
+      "soruMetni": "Cumhuriyetin ilanı ile birlikte aşağıdaki sorunlardan hangisi çözüme kavuşmamıştır?",
+      "a": "Devlet başkanlığı sorunu",
+      "b": "Rejim sorunu",
+      "c": "Hükümet bunalımı",
+      "d": "Çok partili hayata geçiş",
+      "cevap": "Çok partili hayata geçiş"
+    },
+    {
+      "konuAdi": "Hukuk İnkılabı",
+      "soruMetni": "1926 yılında kabul edilen Türk Medeni Kanunu, hangi ülkenin medeni kanunu örnek alınarak hazırlanmıştır ve bu kanunla kadınlara hangi hak verilmemiştir?",
+      "a": "İsviçre - Seçme ve seçilme hakkı",
+      "b": "Almanya - Mirasta eşitlik",
+      "c": "İtalya - Boşanma hakkı",
+      "d": "Fransa - Resmi nikah zorunluluğu",
+      "cevap": "İsviçre - Seçme ve seçilme hakkı"
+    },
+    {
+      "konuAdi": "Atatürk İlkeleri",
+      "soruMetni": "'Yurtta sulh, cihanda sulh' ilkesi, Atatürk'ün bütünleyici ilkelerinden hangisi ile doğrudan ilişkilidir?",
+      "a": "Akılcılık ve Bilimsellik",
+      "b": "İnsan ve İnsanlık Sevgisi",
+      "c": "Milli Birlik ve Beraberlik",
+      "d": "Çağdaşlaşma",
+      "cevap": "İnsan ve İnsanlık Sevgisi"
+    },
+    {
+      "konuAdi": "Dış Politika",
+      "soruMetni": "Türkiye'nin Milletler Cemiyeti'ne girişi hangi yıl gerçekleşmiştir ve Türkiye'yi davet eden ülke hangisidir?",
+      "a": "1932 - İspanya",
+      "b": "1934 - Yunanistan",
+      "c": "1936 - İngiltere",
+      "d": "1939 - Fransa",
+      "cevap": "1932 - İspanya"
+    },
+    {
+      "konuAdi": "Eğitim ve Kültür İnkılabı",
+      "soruMetni": "Tevhid-i Tedrisat Kanunu'nun kabul edilmesiyle aşağıdakilerden hangisi gerçekleşmemiştir?",
+      "a": "Eğitim ve öğretim birleştirildi.",
+      "b": "Medreseler kapatıldı.",
+      "c": "Yabancı okullar MEB'e bağlandı.",
+      "d": "Üniversite reformu yapıldı.",
+      "cevap": "Üniversite reformu yapıldı."
+    },
+    {
+      "konuAdi": "Ekonomi İnkılabı",
+      "soruMetni": "17 Şubat 1923'te toplanan İzmir İktisat Kongresi'nde alınan 'Misak-ı İktisadi' kararlarının temel amacı nedir?",
+      "a": "Yabancı sermayeyi teşvik etmek",
+      "b": "Devletçilik ilkesini zorunlu kılmak",
+      "c": "Ekonomik bağımsızlığı sağlamak",
+      "d": "Tarım toplumundan sanayi toplumuna geçmek",
+      "cevap": "Ekonomik bağımsızlığı sağlamak"
+    },
+    {
+      "konuAdi": "Çok Partili Hayat Denemeleri",
+      "soruMetni": "Türkiye Cumhuriyeti tarihinde kurulan ilk muhalefet partisi hangisidir ve hangi olay sonucunda kapatılmıştır?",
+      "a": "Serbest Cumhuriyet Fırkası - Menemen Olayı",
+      "b": "Terakkiperver Cumhuriyet Fırkası - Şeyh Sait İsyanı",
+      "c": "Demokrat Parti - 1960 Darbesi",
+      "d": "Milli Kalkınma Partisi - II. Dünya Savaşı",
+      "cevap": "Terakkiperver Cumhuriyet Fırkası - Şeyh Sait İsyanı"
+    },
+    {
+      "konuAdi": "Atatürk Dönemi Dış Politika",
+      "soruMetni": "1936 yılında imzalanan Montrö Boğazlar Sözleşmesi ile Türkiye'nin elde ettiği en önemli kazanım nedir?",
+      "a": "Boğazlar Komisyonu'nun kaldırılması ve tam egemenlik sağlanması",
+      "b": "Boğazlardan geçişin tamamen ücretli hale gelmesi",
+      "c": "Karadeniz'e kıyısı olmayan devletlerin gemilerinin geçişinin yasaklanması",
+      "d": "Boğazların tahkimatının İngiltere'ye bırakılması",
+      "cevap": "Boğazlar Komisyonu'nun kaldırılması ve tam egemenlik sağlanması"
+    },
+    {
+      "konuAdi": "Balkan Antantı",
+      "soruMetni": "1934 yılında Türkiye, Yunanistan, Yugoslavya ve Romanya arasında imzalanan Balkan Antantı'nın temel amacı nedir?",
+      "a": "Sovyet Rusya'ya karşı birlik olmak",
+      "b": "Almanya ve İtalya'nın yayılmacı politikalarına karşı sınır güvenliğini sağlamak",
+      "c": "Ekonomik işbirliğini geliştirmek",
+      "d": "Sadabat Paktı'na alternatif oluşturmak",
+      "cevap": "Almanya ve İtalya'nın yayılmacı politikalarına karşı sınır güvenliğini sağlamak"
+    },
+    {
+      "konuAdi": "Hatay Sorunu",
+      "soruMetni": "Hatay'ın anavatana katılması süreci ile ilgili olarak, bağımsız Hatay Cumhuriyeti'nin ilk ve tek cumhurbaşkanı kimdir?",
+      "a": "Tayfur Sökmen",
+      "b": "Abdurrahman Melek",
+      "c": "Şükrü Saraçoğlu",
+      "d": "Refik Saydam",
+      "cevap": "Tayfur Sökmen"
+    },
+    {
+      "konuAdi": "Cumhuriyetçilik İlkesi",
+      "soruMetni": "Aşağıdaki inkılaplardan hangisi doğrudan Cumhuriyetçilik ilkesi ile ilgili değildir?",
+      "a": "Saltanatın kaldırılması",
+      "b": "Kadınlara seçme ve seçilme hakkının verilmesi",
+      "c": "Ordunun siyasetten ayrılması (Erkan-ı Harbiye'nin kaldırılması)",
+      "d": "Kabotaj Kanunu'nun kabulü",
+      "cevap": "Kabotaj Kanunu'nun kabulü"
+    },
+    {
+      "konuAdi": "Laiklik İlkesi",
+      "soruMetni": "1928 yılında Anayasa'dan çıkarılan hüküm aşağıdakilerden hangisidir?",
+      "a": "Egemenlik kayıtsız şartsız milletindir.",
+      "b": "Türkiye Devleti'nin dini İslam'dır.",
+      "c": "Başkent Ankara'dır.",
+      "d": "Resmi dil Türkçedir.",
+      "cevap": "Türkiye Devleti'nin dini İslam'dır."
+    },
+    {
+      "konuAdi": "Halkçılık İlkesi",
+      "soruMetni": "Aşağıdakilerden hangisi Halkçılık ilkesinin bir gereği olarak yapılan inkılaplardan biridir?",
+      "a": "Soyadı Kanunu'nun kabulü",
+      "b": "Teşvik-i Sanayi Kanunu",
+      "c": "Merkez Bankası'nın kurulması",
+      "d": "Maden Tetkik Arama Enstitüsü'nün kurulması",
+      "cevap": "Soyadı Kanunu'nun kabulü"
+    },
+    {
+      "konuAdi": "Cemiyetler",
+      "soruMetni": "Milli varlığa düşman cemiyetlerden hangisi, İngiliz mandasını savunmuş ve Kurtuluş Savaşı'na karşı propaganda yapmıştır?",
+      "a": "Mavri Mira",
+      "b": "İngiliz Muhipleri Cemiyeti",
+      "c": "Pontus Rum Cemiyeti",
+      "d": "Kilikyalılar Cemiyeti",
+      "cevap": "İngiliz Muhipleri Cemiyeti"
+    },
+    {
+      "konuAdi": "Sakarya Meydan Muharebesi",
+      "soruMetni": "Mustafa Kemal Paşa'ya 'Mareşal' rütbesi ve 'Gazi' unvanı hangi savaştan sonra verilmiştir?",
+      "a": "Büyük Taarruz",
+      "b": "Kütahya-Eskişehir Savaşları",
+      "c": "Sakarya Meydan Muharebesi",
+      "d": "Başkomutanlık Meydan Muharebesi",
+      "cevap": "Sakarya Meydan Muharebesi"
+    },
+    {
+      "konuAdi": "Mudanya Ateşkes Antlaşması",
+      "soruMetni": "Mudanya Ateşkes Antlaşması ile savaş yapılmadan kurtarılan bölgeler hangileridir?",
+      "a": "İzmir, Aydın, Manisa",
+      "b": "Doğu Trakya, İstanbul, Boğazlar",
+      "c": "Antalya, Konya, Muğla",
+      "d": "Kars, Ardahan, Batum",
+      "cevap": "Doğu Trakya, İstanbul, Boğazlar"
+    },
+
+    {
+      "konuAdi": "657 Sayılı DMK - İstihdam Şekilleri",
+      "soruMetni": "657 sayılı Devlet Memurları Kanunu'nun 4. maddesine göre, kamu hizmetleri kaç temel istihdam şekli ile gördürülür ve aşağıdakilerden hangisi 2017 değişikliği sonrası kaldırılmıştır?",
+      "a": "3 - Geçici Personel (4/C)",
+      "b": "4 - Sözleşmeli Personel (4/B)",
+      "c": "3 - Sürekli İşçi",
+      "d": "4 - Geçici İşçi",
+      "cevap": "3 - Geçici Personel (4/C)"
+    },
+    {
+      "konuAdi": "657 Sayılı DMK - Ödev ve Sorumluluklar",
+      "soruMetni": "Devlet memurlarının 'Mal Bildirimi'nde bulunması ile ilgili olarak, 657 sayılı Kanun ve ilgili yönetmeliklere göre, sonu (0) ve (5) ile biten yılların en geç hangi ayının sonuna kadar genel beyan yenilenmelidir?",
+      "a": "Ocak",
+      "b": "Şubat",
+      "c": "Mart",
+      "d": "Mayıs",
+      "cevap": "Şubat"
+    },
+    {
+      "konuAdi": "657 Sayılı DMK - Yasaklar",
+      "soruMetni": "Aşağıdakilerden hangisi devlet memurlarının ticaret ve diğer kazanç getirici faaliyetlerde bulunma yasağının istisnalarından biri değildir?",
+      "a": "Kooperatif üyeliği",
+      "b": "Anonim şirketlerde kurucu ortak olmak (yönetim görev almamak kaydıyla)",
+      "c": "Komandit şirkette komandite (sınırsız sorumlu) ortak olmak",
+      "d": "Kanunla kurulmuş yardım sandıklarına üye olmak",
+      "cevap": "Komandit şirkette komandite (sınırsız sorumlu) ortak olmak"
+    },
+    {
+      "konuAdi": "657 Sayılı DMK - Adaylık",
+      "soruMetni": "Aday memurluk süresi ile ilgili olarak aşağıdaki ifadelerden hangisi yanlıştır?",
+      "a": "Adaylık süresi 1 yıldan az, 2 yıldan çok olamaz.",
+      "b": "Aday memurken disiplin cezası alanların ilişikleri kesilir.",
+      "c": "Adaylık süresi içinde aylıktan kesme veya kademe ilerlemesinin durdurulması cezası alanların memuriyetle ilişikleri kesilir.",
+      "d": "Adaylığı başarıyla tamamlayamayanlar 3 yıl süreyle devlet memurluğuna alınmazlar.",
+      "cevap": "Aday memurken disiplin cezası alanların ilişikleri kesilir."
+    },
+    {
+      "konuAdi": "657 Sayılı DMK - Atama",
+      "soruMetni": "Bir göreve atanan devlet memuru, atama kararı kendisine tebliğ edildiğinde, aynı yerdeki bir göreve atanmışsa ne zaman işe başlamak zorundadır?",
+      "a": "Tebliğ tarihini izleyen 15 gün içinde",
+      "b": "Tebliğ gününü izleyen iş günü",
+      "c": "Tebliğ tarihinden itibaren 7 gün içinde",
+      "d": "Derhal (Tebliğ günü)",
+      "cevap": "Tebliğ gününü izleyen iş günü"
+    },
+    {
+      "konuAdi": "657 Sayılı DMK - İzinler",
+      "soruMetni": "Hizmet süresi 1 yıldan 10 yıla kadar (10 yıl dahil) olan devlet memurlarının yıllık izin süresi kaç gündür?",
+      "a": "15 gün",
+      "b": "20 gün",
+      "c": "30 gün",
+      "d": "45 gün",
+      "cevap": "20 gün"
+    },
+    {
+      "konuAdi": "657 Sayılı DMK - Mazeret İzinleri",
+      "soruMetni": "Memura, eşinin doğum yapması halinde isteği üzerine kaç gün babalık izni verilir?",
+      "a": "3 gün",
+      "b": "5 gün",
+      "c": "7 gün",
+      "d": "10 gün",
+      "cevap": "10 gün"
+    },
+    {
+      "konuAdi": "657 Sayılı DMK - Aylıksız İzin",
+      "soruMetni": "Beş hizmet yılını tamamlamış bir memura, memuriyeti boyunca en fazla kaç defada kullanılmak üzere toplam ne kadar süreyle aylıksız izin verilebilir?",
+      "a": "İki defada - 1 yıl",
+      "b": "İki defada - 6 ay",
+      "c": "En fazla iki defada - 1 yıl",
+      "d": "Sayı sınırlaması olmaksızın - 1 yıl",
+      "cevap": "En fazla iki defada - 1 yıl"
+    },
+    {
+      "konuAdi": "657 Sayılı DMK - Disiplin Cezaları",
+      "soruMetni": "Aşağıdaki fiillerden hangisi 'Kınama' cezasını gerektirir?",
+      "a": "Özürsüz olarak bir veya iki gün göreve gelmemek",
+      "b": "Görev sırasında amirine sözle saygısızlık etmek",
+      "c": "Devlete ait resmi araç, gereç ve benzeri eşyayı özel işlerinde kullanmak",
+      "d": "Verilen emir ve görevlerin tam ve zamanında yapılmasında kusurlu davranmak",
+      "cevap": "Verilen emir ve görevlerin tam ve zamanında yapılmasında kusurlu davranmak"
+    },
+    {
+      "konuAdi": "657 Sayılı DMK - Disiplin Cezaları",
+      "soruMetni": "'Özürsüz olarak bir yılda toplam 20 gün göreve gelmemek' fiili hangi disiplin cezasını gerektirir?",
+      "a": "Aylıktan kesme",
+      "b": "Kademe ilerlemesinin durdurulması",
+      "c": "Devlet memurluğundan çıkarma",
+      "d": "Kınama",
+      "cevap": "Devlet memurluğundan çıkarma"
+    },
+    {
+      "konuAdi": "657 Sayılı DMK - Disiplin Cezaları",
+      "soruMetni": "'Görevi ile ilgili olarak her ne şekilde olursa olsun çıkar sağlamak' fiili hangi disiplin cezasını gerektirir?",
+      "a": "Aylıktan kesme",
+      "b": "Kademe ilerlemesinin durdurulması",
+      "c": "Devlet memurluğundan çıkarma",
+      "d": "Memuriyetten men",
+      "cevap": "Kademe ilerlemesinin durdurulması"
+    },
+    {
+      "konuAdi": "657 Sayılı DMK - Disiplin Kurulları",
+      "soruMetni": "Devlet memurluğundan çıkarma cezası vermeye yetkili merci aşağıdakilerden hangisidir?",
+      "a": "Disiplin Amiri",
+      "b": "İl Disiplin Kurulu",
+      "c": "Yüksek Disiplin Kurulu",
+      "d": "Atamaya Yetkili Amir",
+      "cevap": "Yüksek Disiplin Kurulu"
+    },
+    {
+      "konuAdi": "657 Sayılı DMK - Disiplin Soruşturması",
+      "soruMetni": "Disiplin cezası verilmesini gerektiren fiil ve hallerin işlendiğinin öğrenildiği tarihten itibaren, uyarma, kınama, aylıktan kesme ve kademe ilerlemesinin durdurulması cezalarında kaç ay içinde disiplin soruşturmasına başlanmadığı takdirde ceza verme yetkisi zamanaşımına uğrar?",
+      "a": "1 ay",
+      "b": "3 ay",
+      "c": "6 ay",
+      "d": "2 yıl",
+      "cevap": "1 ay"
+    },
+    {
+      "konuAdi": "657 Sayılı DMK - Memurluğun Sona Ermesi",
+      "soruMetni": "Çekilme (istifa) isteğinde bulunan memur, yerine atanan kimse gelmeden veya çekilme isteğinin kabulüne dair karar gelmeden görevini bırakırsa, devlet memurluğuna tekrar ne zaman alınabilir?",
+      "a": "6 ay geçmeden alınamaz.",
+      "b": "1 yıl geçmeden alınamaz.",
+      "c": "3 yıl geçmeden alınamaz.",
+      "d": "Hiçbir zaman alınamaz.",
+      "cevap": "1 yıl geçmeden alınamaz."
+    },
+    {
+      "konuAdi": "657 Sayılı DMK - Görevden Uzaklaştırma",
+      "soruMetni": "Görevden uzaklaştırma tedbiri en çok ne kadar süre devam edebilir (disiplin soruşturması nedeniyle)?",
+      "a": "1 ay",
+      "b": "3 ay",
+      "c": "6 ay",
+      "d": "1 yıl",
+      "cevap": "3 ay"
+    },
+    {
+      "konuAdi": "657 Sayılı DMK - Haklar",
+      "soruMetni": "Devlet memurlarının müracaat ve şikayet hakkını kullanırken izlemeleri gereken usul aşağıdakilerden hangisidir?",
+      "a": "Doğrudan en üst amire başvurulur.",
+      "b": "Doğrudan Valiliğe başvurulur.",
+      "c": "Silsile yoluyla ve şikayet edilen amir atlanarak başvurulur.",
+      "d": "Sendika aracılığıyla başvurulur.",
+      "cevap": "Silsile yoluyla ve şikayet edilen amir atlanarak başvurulur."
+    },
+    {
+      "konuAdi": "657 Sayılı DMK - Hastalık İzni",
+      "soruMetni": "Kanser, verem ve akıl hastalığı gibi uzun süreli bir tedaviye ihtiyaç gösteren hastalığa yakalanan memura ne kadar süreyle hastalık izni verilir?",
+      "a": "6 ay",
+      "b": "12 ay",
+      "c": "18 ay",
+      "d": "24 ay",
+      "cevap": "18 ay"
+    },
+    {
+      "konuAdi": "657 Sayılı DMK - Kademe ve Derece",
+      "soruMetni": "Memurun kademe ilerlemesi yapabilmesi için bulunduğu kademede en az ne kadar süre çalışmış olması gerekir?",
+      "a": "6 ay",
+      "b": "1 yıl",
+      "c": "2 yıl",
+      "d": "3 yıl",
+      "cevap": "1 yıl"
+    },
+    {
+      "konuAdi": "657 Sayılı DMK - Ek Gösterge",
+      "soruMetni": "Devlet memurlarının aylık ücretlerinin hesaplanmasında ve emeklilik keseneklerinde önemli bir unsur olan 'Ek Gösterge' hangi maaş kalemini doğrudan etkilemez?",
+      "a": "Emekli Aylığı",
+      "b": "Emekli İkramiyesi",
+      "c": "Özel Hizmet Tazminatı",
+      "d": "Aile Yardımı",
+      "cevap": "Aile Yardımı"
+    },
+    {
+      "konuAdi": "657 Sayılı DMK - İkinci Görev",
+      "soruMetni": "Asıl görevlerinin yanında, tabip ve diş hekimlerine 657 sayılı Kanun'a göre aşağıdaki görevlerden hangisi ikinci görev olarak verilebilir?",
+      "a": "İl Nüfus Müdürlüğü",
+      "b": "İl Sağlık Müdürlüğü",
+      "c": "Belediye Başkanlığı",
+      "d": "Okul Müdürlüğü",
+      "cevap": "İl Sağlık Müdürlüğü"
+    },
+    {
+      "konuAdi": "657 Sayılı DMK - Ders Görevi",
+      "soruMetni": "Öğretmen sayısının ve uzman kişinin bulunmadığı hallerde, üniversite mezunu devlet memurlarına haftada en çok kaç saate kadar ücretli ders görevi verilebilir?",
+      "a": "6 saat",
+      "b": "8 saat",
+      "c": "10 saat",
+      "d": "12 saat",
+      "cevap": "8 saat"
+    },
+    {
+      "konuAdi": "657 Sayılı DMK - Çekilmiş Sayılma",
+      "soruMetni": "Mezuniyetsiz veya kurumlarınca kabul edilen mazereti olmaksızın görevin terk edilmesi ve bu terkin kesintisiz kaç gün devam etmesi halinde memur çekilme isteğinde bulunmuş (müstafi) sayılır?",
+      "a": "3 gün",
+      "b": "5 gün",
+      "c": "10 gün",
+      "d": "15 gün",
+      "cevap": "10 gün"
+    },
+    {
+      "konuAdi": "657 Sayılı DMK - Disiplin Cezaları",
+      "soruMetni": "Disiplin cezalarına karşı itiraz süresi, kararın tebliğinden itibaren kaç gündür?",
+      "a": "3 gün",
+      "b": "5 gün",
+      "c": "7 gün",
+      "d": "15 gün",
+      "cevap": "7 gün"
+    },
+    {
+      "konuAdi": "657 Sayılı DMK - Yolluk",
+      "soruMetni": "657 sayılı Kanun'a göre, yer değiştirme suretiyle başka bir yere atanan memura ödenen harcırahın (yolluğun) düzenlendiği kanun hangisidir?",
+      "a": "657 sayılı Devlet Memurları Kanunu",
+      "b": "5018 sayılı Kamu Mali Yönetimi Kanunu",
+      "c": "6245 sayılı Harcırah Kanunu",
+      "d": "6098 sayılı Borçlar Kanunu",
+      "cevap": "6245 sayılı Harcırah Kanunu"
+    },
+    {
+      "konuAdi": "657 Sayılı DMK - Memurluktan Çıkarma",
+      "soruMetni": "Aşağıdaki fiillerden hangisi 'Devlet memurluğundan çıkarma' cezasını gerektirmez?",
+      "a": "Siyasi partiye girmek",
+      "b": "Savaş, olağanüstü hal veya genel afetlere ilişkin konularda amirlerin verdiği görevleri yapmamak",
+      "c": "5816 sayılı Atatürk Aleyhine İşlenen Suçlar Hakkındaki Kanuna aykırı fiilleri işlemek",
+      "d": "Borçlarını kasten ödemeyerek hakkında yasal yollara başvurulmasına neden olmak",
+      "cevap": "Borçlarını kasten ödemeyerek hakkında yasal yollara başvurulmasına neden olmak"
+    },
+
+    {
+      "konuAdi": "Resmi Yazışma - Belge Özellikleri",
+      "soruMetni": "Resmi yazışmalarda kullanılacak yazı tipi ve boyutu ile ilgili olarak, elektronik ortamda hazırlanan belgelerde aşağıdakilerden hangisi standart olarak belirlenmiştir?",
+      "a": "Times New Roman 12 punto veya Arial 11 punto",
+      "b": "Times New Roman 11 punto veya Arial 10 punto",
+      "c": "Tahoma 12 punto veya Calibri 11 punto",
+      "d": "Sadece Times New Roman 12 punto",
+      "cevap": "Times New Roman 12 punto veya Arial 11 punto"
+    },
+    {
+      "konuAdi": "Resmi Yazışma - Bölümler",
+      "soruMetni": "Resmi yazışmalarda 'Tarih' bölümü ile ilgili aşağıdaki kurallardan hangisi doğrudur?",
+      "a": "Sayı ile aynı hizada olmak üzere yazı alanının en solunda yer alır.",
+      "b": "İmzalayan yetkilinin imzasını attığı tarih esas alınır.",
+      "c": "Belgenin yetkili amir tarafından imzalandığı tarih değil, evrak kayda girdiği tarih yazılır.",
+      "d": "Tarih, gün, ay ve yıl rakamla, aralarına nokta (.) işareti konularak yazılır (Örn: 01.01.2023).",
+      "cevap": "İmzalayan yetkilinin imzasını attığı tarih esas alınır."
+    },
+    {
+      "konuAdi": "Resmi Yazışma - Arz ve Rica",
+      "soruMetni": "Üst makamın alt makama yazdığı yazılarda, alt makamın üst makama yazdığı yazılarda ve aynı düzeydeki makamların birbirlerine yazdıkları yazılarda kullanılan 'Arz/Rica' ifadeleri ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "a": "Üst makam alt makama rica eder.",
+      "b": "Alt makam üst makama arz eder.",
+      "c": "Aynı düzeydeki makamlar birbirlerine arz eder.",
+      "d": "Üst ve alt makamlara dağıtımlı olarak gönderilen yazılarda 'Arz ve rica ederim' kullanılır.",
+      "cevap": "Aynı düzeydeki makamlar birbirlerine arz eder."
+    },
+    {
+      "konuAdi": "Resmi Yazışma - Konu",
+      "soruMetni": "'Konu' bölümü ile ilgili olarak, başlıkta yer alan 'T.C.' kısaltması hizasını geçmeyecek şekilde, 'Konu:' ibaresinden sonra nasıl yazılmalıdır?",
+      "a": "İlk harfleri büyük diğerleri küçük harflerle",
+      "b": "Sadece ilk harfi büyük",
+      "c": "Tamamı büyük harflerle",
+      "d": "İtalik ve kalın olarak",
+      "cevap": "İlk harfleri büyük diğerleri küçük harflerle"
+    },
+    {
+      "konuAdi": "Resmi Yazışma - Sayı",
+      "soruMetni": "Resmi belgelerde 'Sayı' bölümünde yer alan ve Devlet Teşkilatı Merkezi Kayıt Sistemini ifade eden numara sistemi aşağıdakilerden hangisidir?",
+      "a": "MERSİS",
+      "b": "DETSİS",
+      "c": "KAYSİS",
+      "d": "ÇKYS",
+      "cevap": "DETSİS"
+    },
+    {
+      "konuAdi": "Resmi Yazışma - İmza",
+      "soruMetni": "Belgeyi imzalayacak olan makam sahibinin adı, soyadı ve unvanı yazı alanının en sağına yazılır. İmza atarken renk tercihi ile ilgili kural nedir?",
+      "a": "Sadece siyah mürekkepli kalem kullanılır.",
+      "b": "Mavi mürekkepli kalem kullanılır (Elektronik ortam hariç).",
+      "c": "Kırmızı mürekkepli kalem kullanılır.",
+      "d": "İmza rengi serbesttir.",
+      "cevap": "Mavi mürekkepli kalem kullanılır (Elektronik ortam hariç)."
+    },
+    {
+      "konuAdi": "Resmi Yazışma - İlgi",
+      "soruMetni": "'İlgi' bölümünün yazımı ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "a": "İlginin birden fazla olması durumunda, tarihlerine göre eskiden yeniye doğru sıralanır.",
+      "b": "İlgi, 'Sayı' bölümünün hizasında ve 'Konu' bölümünün altında yer alır.",
+      "c": "İlgide, '... tarihli ve ... sayılı' ibaresi kullanılır.",
+      "d": "İlgi tutulan yazı, muhatap idarede olan bir yazı ise sadece tarih ve sayısı belirtilir.",
+      "cevap": "İlgi, 'Sayı' bölümünün hizasında ve 'Konu' bölümünün altında yer alır."
+    },
+    {
+      "konuAdi": "Resmi Yazışma - Paraf",
+      "soruMetni": "Paraf ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "a": "Paraf, belgenin sadece idarede kalacak nüshasında yer alır.",
+      "b": "Fiziksel belgelerde paraf, yazı alanının sonunda ve sol kenarında açılan paraf alanına atılır.",
+      "c": "Paraf, belgeyi hazırlayan ve kontrol edenler tarafından atılır.",
+      "d": "Paraf, belgenin asıl nüshasında (gideceği yerde) mutlaka bulunmalıdır.",
+      "cevap": "Paraf, belgenin asıl nüshasında (gideceği yerde) mutlaka bulunmalıdır."
+    },
+    {
+      "konuAdi": "Resmi Yazışma - Gizlilik",
+      "soruMetni": "Resmi yazışmalarda 'Hizmete Özel' gizlilik derecesi ile ilgili son yönetmelik değişikliği durumu nedir?",
+      "a": "Halen en düşük gizlilik derecesi olarak kullanılmaktadır.",
+      "b": "Yönetmelikten kaldırılmıştır, artık kullanılmamaktadır.",
+      "c": "Sadece askeri yazışmalarda kullanılmaktadır.",
+      "d": "'Kişiye Özel' ile birleştirilmiştir.",
+      "cevap": "Yönetmelikten kaldırılmıştır, artık kullanılmamaktadır."
+    },
+    {
+      "konuAdi": "Resmi Yazışma - Üst Yazı",
+      "soruMetni": "Birden fazla yetkili tarafından imzalanacak belgelerde imza sırası nasıl olmalıdır?",
+      "a": "Üst makam sahibinin imzası en sağda yer alır.",
+      "b": "Üst makam sahibinin imzası en solda yer alır.",
+      "c": "İmzalar unvan sırasına bakılmaksızın alfabetik atılır.",
+      "d": "En kıdemli üye ortada imzalar.",
+      "cevap": "Üst makam sahibinin imzası en solda yer alır."
+    },
+    {
+      "konuAdi": "Resmi Yazışma - Metin",
+      "soruMetni": "Metin bölümü ile ilgili olarak, paragraf başlangıcı nasıl yapılmalıdır?",
+      "a": "Yazı alanının solundan, girinti yapılmadan başlanır.",
+      "b": "1.25 cm içeriden başlanır.",
+      "c": "Sadece başlıklar ortalanır, paragraflar yaslanmaz.",
+      "d": "Tüm metin ortalanarak yazılır.",
+      "cevap": "1.25 cm içeriden başlanır."
+    },
+    {
+      "konuAdi": "Resmi Yazışma - Ekler",
+      "soruMetni": "Belgeye eklenecek 'Ek' sayısı birden fazla ise nasıl gösterilir?",
+      "a": "Sadece 'Ektir' yazılır.",
+      "b": "Ekler numaralandırılır ve başlıkları ile belirtilir.",
+      "c": "Eklerin isimleri virgülle ayrılarak yan yana yazılır.",
+      "d": "Ek listesi ayrı bir kağıda yazılır, belgeye yazılmaz.",
+      "cevap": "Ekler numaralandırılır ve başlıkları ile belirtilir."
+    },
+    {
+      "konuAdi": "Resmi Yazışma - Dağıtım",
+      "soruMetni": "Dağıtım listesi 'Gereği' ve 'Bilgi' olarak ayrıldığında sıralama nasıl olmalıdır?",
+      "a": "Önce 'Bilgi' sonra 'Gereği' yazılır.",
+      "b": "Sadece 'Gereği' yazılır, 'Bilgi' yazılmaz.",
+      "c": "Önce 'Gereği' sonra 'Bilgi' yazılır.",
+      "d": "Alfabetik sıraya göre karışık yazılır.",
+      "cevap": "Önce 'Gereği' sonra 'Bilgi' yazılır."
+    },
+    {
+      "konuAdi": "Resmi Yazışma - Süreli Yazılar",
+      "soruMetni": "Süreli veya acil bir belgenin sağ üst köşesine kırmızı renkli olarak hangi ibareler yazılabilir?",
+      "a": "ACİLDİR veya ÖNEMLİDİR",
+      "b": "GÜNLÜDÜR veya İVEDİDİR",
+      "c": "ÇOK GİZLİ veya KİŞİYE ÖZEL",
+      "d": "DİKKAT veya HEMEN",
+      "cevap": "GÜNLÜDÜR veya İVEDİDİR"
+    },
+    {
+      "konuAdi": "Resmi Yazışma - Tekit Yazısı",
+      "soruMetni": "Cevap verilmesi gereken bir yazıya süresi içinde cevap verilmemesi durumunda, muhataba yazılan hatırlatma yazısına ne ad verilir?",
+      "a": "Genelge",
+      "b": "Tekit yazısı",
+      "c": "Tamim",
+      "d": "Müzekkere",
+      "cevap": "Tekit yazısı"
+    },
+    {
+      "konuAdi": "Resmi Yazışma - Sayfa Numarası",
+      "soruMetni": "Sayfa numarası, yazı alanının neresine ve nasıl yazılır?",
+      "a": "Sağ alt köşeye, toplam sayfa sayısıyla birlikte (Örn: 1/5)",
+      "b": "Sağ üst köşeye, sadece sayfa numarası (Örn: 1)",
+      "c": "Alt ortada, sadece sayfa numarası (Örn: 1)",
+      "d": "Sol alt köşeye, toplam sayfa sayısıyla birlikte",
+      "cevap": "Alt ortada, sadece sayfa numarası (Örn: 1)"
+    },
+    {
+      "konuAdi": "Resmi Yazışma - Yetki Devri",
+      "soruMetni": "İmza yetkisi devredilen makam, imza atarken unvanını nasıl belirtir?",
+      "a": "Kendi unvanını kullanır, yetki devrini belirtmez.",
+      "b": "Sadece 'Adına' ibaresini kullanır (Örn: Vali Adına).",
+      "c": "'a.' (adına) kısaltmasını kullanarak yetki devreden makamın unvanını yazar (Örn: Vali a.).",
+      "d": "'V.' (vekaleten) kısaltmasını kullanır.",
+      "cevap": "'a.' (adına) kısaltmasını kullanarak yetki devreden makamın unvanını yazar (Örn: Vali a.)."
+    },
+    {
+      "konuAdi": "Resmi Yazışma - Vekalet",
+      "soruMetni": "Bir makama vekalet eden kişi imza atarken nasıl bir ifade kullanır?",
+      "a": "'Y.' (yerine) kısaltması ile",
+      "b": "'V.' (vekil) kısaltması ile (Örn: Vali V.)",
+      "c": "'a.' (adına) kısaltması ile",
+      "d": "Sadece kendi unvanı ile",
+      "cevap": "'V.' (vekil) kısaltması ile (Örn: Vali V.)"
+    },
+    {
+      "konuAdi": "Resmi Yazışma - İletişim Bilgileri",
+      "soruMetni": "İletişim bilgileri bölümü belgenin neresinde yer alır ve hangi bilgileri içerir?",
+      "a": "Sayfanın en üstünde, başlık hizasında",
+      "b": "Yazı alanının en altında, çizgi ile ayrılarak; adres, telefon, e-posta vb.",
+      "c": "İmza bölümünün hemen altında",
+      "d": "Sadece zarf üzerinde yer alır",
+      "cevap": "Yazı alanının en altında, çizgi ile ayrılarak; adres, telefon, e-posta vb."
+    },
+    {
+      "konuAdi": "Resmi Yazışma - Görüş/Bilgi İsteme",
+      "soruMetni": "Bir konuda görüş veya bilgi istenirken üst ve alt makam ayrımı gözetilmeksizin hangi ifade kullanılır?",
+      "a": "Rica ederim",
+      "b": "Arz ederim",
+      "c": "Arz ve rica ederim",
+      "d": "Müsaadelerinizi arz ederim",
+      "cevap": "Arz ederim"
+    },
+    {
+      "konuAdi": "Resmi Yazışma - Başlık",
+      "soruMetni": "Belgenin başlık bölümünde 'T.C.' kısaltmasının altına, ortalanarak ne yazılır?",
+      "a": "Bağlı veya ilgili bulunulan bakanlık/kurum adı büyük harflerle",
+      "b": "Birim adı küçük harflerle",
+      "c": "İl adı",
+      "d": "Şube müdürlüğü adı",
+      "cevap": "Bağlı veya ilgili bulunulan bakanlık/kurum adı büyük harflerle"
+    },
+    {
+      "konuAdi": "Resmi Yazışma - Elektronik Belge",
+      "soruMetni": "Elektronik ortamda güvenli elektronik imza ile hazırlanan belgelerin fiziksel çıktısı alındığında, doğrulama işleminin yapılabilmesi için belgede ne bulunmalıdır?",
+      "a": "Islak imza",
+      "b": "Karekod veya barkod ile doğrulama bilgileri",
+      "c": "Noter onayı",
+      "d": "Mühür",
+      "cevap": "Karekod veya barkod ile doğrulama bilgileri"
+    },
+
+    {
+      "konuAdi": "Yazım Kuralları",
+      "soruMetni": "Aşağıdaki cümlelerin hangisinde büyük harflerin yazımıyla ilgili bir yanlışlık yapılmıştır?",
+      "a": "Bu yıl Meclis, yeni yasama yılına 1 Ekim'de başlayacak.",
+      "b": "Ankara Kalesi'nden şehri izlemek insana huzur veriyor.",
+      "c": "Dün akşam Nene Hatun Caddesi'nde büyük bir kaza oldu.",
+      "d": "Türk Dil Kurumu, 1932 yılında Atatürk'ün Talimatıyla kurulmuştur.",
+      "cevap": "Türk Dil Kurumu, 1932 yılında Atatürk'ün Talimatıyla kurulmuştur."
+    },
+    {
+      "konuAdi": "Yazım Kuralları",
+      "soruMetni": "Aşağıdaki cümlelerin hangisinde 'ki' bağlacının veya ekinin yazımıyla ilgili bir yanlışlık vardır?",
+      "a": "Masadaki kitapları toplarken bir de baktım ki o gelmiş.",
+      "b": "Oysaki biz bu konuda anlaşmıştık, neden fikir değiştirdin?",
+      "c": "Evdeki hesap çarşıya uymadı, bütçemiz sarsıldı.",
+      "d": "Öyle bir konuşma yaptıki herkes hayranlıkla dinledi.",
+      "cevap": "Öyle bir konuşma yaptıki herkes hayranlıkla dinledi."
+    },
+    {
+      "konuAdi": "Yazım Kuralları",
+      "soruMetni": "Aşağıdaki birleşik kelimelerden hangisinin yazımı doğrudur?",
+      "a": "Terketmek",
+      "b": "Arz etmek",
+      "c": "Seyir etmek",
+      "d": "Hapis olmak",
+      "cevap": "Arz etmek"
+    },
+    {
+      "konuAdi": "Yazım Kuralları",
+      "soruMetni": "Aşağıdaki cümlelerin hangisinde sayıların yazımıyla ilgili bir yanlışlık yapılmıştır?",
+      "a": "Yarışmada 2'nci olduğuna çok üzüldü.",
+      "b": "Bu kütüphanede bin üç yüz elli adet kitap var.",
+      "c": "Toplantı 14.30'da başlayacak, sakın geç kalma.",
+      "d": "Herkes ikişer ikişer sıraya girsin.",
+      "cevap": "Yarışmada 2'nci olduğuna çok üzüldü."
+    },
+    {
+      "konuAdi": "Yazım Kuralları",
+      "soruMetni": "Aşağıdaki cümlelerin hangisinde kısaltmaların yazımıyla ilgili bir yanlışlık vardır?",
+      "a": "TBMM'nin açılış yıl dönümü törenle kutlandı.",
+      "b": "TDK'nın son yayınladığı kılavuzu incelediniz mi?",
+      "c": "ASELSAN'da çalışmak mühendisler için büyük bir prestijdir.",
+      "d": "kg'dan daha ağır yükleri taşımak zordur.",
+      "cevap": "TDK'nın son yayınladığı kılavuzu incelediniz mi."
+    },
+    {
+      "konuAdi": "Noktalama İşaretleri",
+      "soruMetni": "Aşağıdaki cümlelerin hangisinde virgül (,) yanlış kullanılmıştır?",
+      "a": "Sessiz dereler, solgun ağaçlar, sarı güller...",
+      "b": "Akşam, yine akşam, yine akşam, göllerde bu dem bir kamış olsam!",
+      "c": "Çalışıp, çabalayıp sonunda istediği hedefe ulaştı.",
+      "d": "Genç, doktora yardım etmek için ileri atıldı.",
+      "cevap": "Çalışıp, çabalayıp sonunda istediği hedefe ulaştı."
+    },
+    {
+      "konuAdi": "Noktalama İşaretleri",
+      "soruMetni": "Aşağıdaki cümlelerin hangisinde noktalı virgül (;) kullanımı doğrudur?",
+      "a": "Pazardan elma, armut, portakal; ıspanak, pırasa, lahana aldım.",
+      "b": "At ölür; meydan kalır, yiğit ölür; şan kalır.",
+      "c": "Seni seviyorum; çünkü sen benim en iyi arkadaşımsın.",
+      "d": "Yarın Ankara'ya gideceğim; ancak işim uzun sürmeyecek.",
+      "cevap": "Pazardan elma, armut, portakal; ıspanak, pırasa, lahana aldım."
+    },
+    {
+      "konuAdi": "Noktalama İşaretleri",
+      "soruMetni": "Aşağıdaki cümlelerin hangisinde üç nokta (...) yanlış kullanılmıştır?",
+      "a": "Karşımızda uçsuz bucaksız bir deniz...",
+      "b": "Koca Ali, elindeki çekiçle demiri dövüyordu...",
+      "c": "Şehrin gürültüsü, trafiği, kalabalığı...",
+      "d": "Sana söylemek istediğim o kadar çok şey var ki...",
+      "cevap": "Koca Ali, elindeki çekiçle demiri dövüyordu..."
+    },
+    {
+      "konuAdi": "Noktalama İşaretleri",
+      "soruMetni": "Aşağıdaki cümlelerin hangisinde kesme işareti (') yanlış kullanılmıştır?",
+      "a": "Ankara'lı arkadaşım bizi yemeğe davet etti.",
+      "b": "Ayşe Hanım'dan aldığım habere göre toplantı ertelenmiş.",
+      "c": "1985'te doğanlar bu yıl emekli olabilecek mi?",
+      "d": "Türkiye'nin ekonomisi hızla büyüyor.",
+      "cevap": "Ankara'lı arkadaşım bizi yemeğe davet etti."
+    },
+    {
+      "konuAdi": "Noktalama İşaretleri",
+      "soruMetni": "Parantez (yay ayraç) işareti aşağıdaki durumların hangisinde kullanılmaz?",
+      "a": "Cümledeki anlamı tamamlayan ve cümlenin dışında kalan ek bilgiler için.",
+      "b": "Tiyatro eserlerinde ve senaryolarda konuşanın hareketlerini belirtmek için.",
+      "c": "Alıntıların aktarıldığı eseri, yazarı veya künye bilgilerini göstermek için.",
+      "d": "Özel veya cins isme getirilen ekleri ayırmak için.",
+      "cevap": "Özel veya cins isme getirilen ekleri ayırmak için."
+    },
+    {
+      "konuAdi": "Anlatım Bozuklukları",
+      "soruMetni": "Aşağıdaki cümlelerin hangisinde gereksiz sözcük kullanımından kaynaklanan bir anlatım bozukluğu vardır?",
+      "a": "Onunla ilk tanışmamız üniversite yıllarına dayanır.",
+      "b": "Bu konuda herkesin fikrini almak istiyoruz.",
+      "c": "Hava çok soğuk, sıkı giyinmelisin.",
+      "d": "Dün akşam izlediğimiz film çok etkileyiciydi.",
+      "cevap": "Onunla ilk tanışmamız üniversite yıllarına dayanır."
+    },
+    {
+      "konuAdi": "Anlatım Bozuklukları",
+      "soruMetni": "Aşağıdaki cümlelerin hangisinde sözcüğün yanlış anlamda kullanılmasından kaynaklanan bir anlatım bozukluğu vardır?",
+      "a": "Bu olay, iki ülke arasındaki ilişkilerin gerilmesine neden oldu.",
+      "b": "Bahçeye ektiği fidanlar kısa sürede büyüdü.",
+      "c": "Onun sayesinde sınavı kazanamadım.",
+      "d": "Toplantıda alınan kararlar herkese duyuruldu.",
+      "cevap": "Onun sayesinde sınavı kazanamadım."
+    },
+    {
+      "konuAdi": "Anlatım Bozuklukları",
+      "soruMetni": "Aşağıdaki cümlelerin hangisinde mantık ve sıralama hatasından kaynaklanan bir anlatım bozukluğu vardır?",
+      "a": "Bırakın patates soymayı, yemek bile yapamaz.",
+      "b": "Yarınki toplantıya mutlaka katılmalısınız.",
+      "c": "Kitap okumayı çok sever, her gün en az bir saat okur.",
+      "d": "Araba kullanmayı yeni öğrendi.",
+      "cevap": "Bırakın patates soymayı, yemek bile yapamaz."
+    },
+    {
+      "konuAdi": "Anlatım Bozuklukları",
+      "soruMetni": "Aşağıdaki cümlelerin hangisinde özne-yüklem uyumsuzluğundan kaynaklanan bir anlatım bozukluğu vardır?",
+      "a": "Herkes salona girdi, kimse konuşmadı.",
+      "b": "Kuşlar ağaçlarda neşeyle ötüşüyorlar.",
+      "c": "Sen ve ben, bu işi başarabiliriz.",
+      "d": "Öğretmen, öğrencilere sınav sonuçlarını açıkladı.",
+      "cevap": "Herkes salona girdi, kimse konuşmadı."
+    },
+    {
+      "konuAdi": "Anlatım Bozuklukları",
+      "soruMetni": "Aşağıdaki cümlelerin hangisinde tamlama yanlışlığından kaynaklanan bir anlatım bozukluğu vardır?",
+      "a": "Özel ve devlet okulları tatil edildi.",
+      "b": "Bu bölgede, tarım ve hayvancılık faaliyetleri yapılıyor.",
+      "c": "Kırmızı ve beyaz güller bahçeyi süslüyordu.",
+      "d": "Onun, dürüst ve çalışkan bir insan olduğunu herkes bilir.",
+      "cevap": "Özel ve devlet okulları tatil edildi."
+    },
+    {
+      "konuAdi": "Yazım Kuralları",
+      "soruMetni": "Aşağıdaki cümlelerin hangisinde 'de/da' bağlacının yazımıyla ilgili bir yanlışlık vardır?",
+      "a": "Sen de bizimle gelmelisin.",
+      "b": "Evde kimse yoktu.",
+      "c": "Konuşup da anlaşamadık.",
+      "d": "Kitabın kapağında da ismim yazmıyor.",
+      "cevap": "Kitabın kapağında da ismim yazmıyor."
+    },
+    {
+      "konuAdi": "Yazım Kuralları",
+      "soruMetni": "Aşağıdaki cümlelerin hangisinde tarihlerin yazımıyla ilgili bir yanlışlık yapılmıştır?",
+      "a": "Sınav 15 Haziran 2023 tarihinde yapılacak.",
+      "b": "19 Mayıs'ta okullar tatil olacak.",
+      "c": "Her yıl Eylül ayında buraya geliriz.",
+      "d": "29 Ekim 1923, Cumhuriyet'in ilan edildiği tarihtir.",
+      "cevap": "Her yıl Eylül ayında buraya geliriz."
+    },
+    {
+      "konuAdi": "Noktalama İşaretleri",
+      "soruMetni": "Aşağıdaki cümlelerin hangisinde soru işareti (?) yanlış kullanılmıştır?",
+      "a": "Adınız, soyadınız, doğum yeriniz?",
+      "b": "Bana neden böyle davrandığını anlamadım?",
+      "c": "Bu kitabı ne zaman okudun?",
+      "d": "Yarın sinemaya gidelim mi?",
+      "cevap": "Bana neden böyle davrandığını anlamadım?"
+    },
+    {
+      "konuAdi": "Noktalama İşaretleri",
+      "soruMetni": "Aşağıdaki cümlelerin hangisinde kısa çizgi (-) yanlış kullanılmıştır?",
+      "a": "Türk-Alman ilişkileri tarihsel bir derinliğe sahiptir.",
+      "b": "1914-1918 yılları arasında I. Dünya Savaşı yaşandı.",
+      "c": "Gel-git olayı ayın çekim gücünden kaynaklanır.",
+      "d": "Üç-beş kişi toplanmış sohbet ediyordu.",
+      "cevap": "Üç-beş kişi toplanmış sohbet ediyordu."
+    },
+    {
+      "konuAdi": "Anlatım Bozuklukları",
+      "soruMetni": "Aşağıdaki cümlelerin hangisinde çelişen sözcüklerin bir arada kullanılmasından kaynaklanan bir anlatım bozukluğu vardır?",
+      "a": "Eminim bu saatte evde uyuyor olabilir.",
+      "b": "Belki de yarın yağmur yağar.",
+      "c": "Kesinlikle bu işi başaracağına inanıyorum.",
+      "d": "Aşağı yukarı üç yıldır bu mahallede oturuyoruz.",
+      "cevap": "Eminim bu saatte evde uyuyor olabilir."
+    },
+    {
+      "konuAdi": "Anlatım Bozuklukları",
+      "soruMetni": "Aşağıdaki cümlelerin hangisinde ek yanlışlığından kaynaklanan bir anlatım bozukluğu vardır?",
+      "a": "Kitap okumasını çok seviyorum.",
+      "b": "Bizi en çok üzen, senin gelmeyişindi.",
+      "c": "Bu işin içinden nasıl çıkacağımızı bilmiyoruz.",
+      "d": "Onun bu sözlerine anlam veremedim.",
+      "cevap": "Kitap okumasını çok seviyorum."
+    },
+    {
+      "konuAdi": "Yazım Kuralları",
+      "soruMetni": "Aşağıdaki cümlelerin hangisinde 'mi' soru edatının yazımıyla ilgili bir yanlışlık vardır?",
+      "a": "Sen de bizimle gelecek misin?",
+      "b": "Beni duyuyor musun?",
+      "c": "Güzelmi güzel bir ev aldılar.",
+      "d": "Yarın yağmur yağacak mı, bilmiyorum.",
+      "cevap": "Güzelmi güzel bir ev aldılar."
+    },
+    {
+      "konuAdi": "Yazım Kuralları",
+      "soruMetni": "Aşağıdaki cümlelerin hangisinde ikilemelerin yazımıyla ilgili bir yanlışlık vardır?",
+      "a": "Çoluk çocuk hep birlikte pikniğe gittik.",
+      "b": "Eğri büğrü yollardan geçtik.",
+      "c": "Başbaşa verip bu sorunu çözmeliyiz.",
+      "d": "Yavaş yavaş yürümeye başladık.",
+      "cevap": "Başbaşa verip bu sorunu çözmeliyiz."
+    },
+    {
+      "konuAdi": "Noktalama İşaretleri",
+      "soruMetni": "Tırnak işareti (\"\") aşağıdaki durumların hangisinde kullanılmaz?",
+      "a": "Başka bir kimseden veya yazıdan olduğu gibi aktarılan sözler için.",
+      "b": "Özel olarak vurgulanmak istenen sözler için.",
+      "c": "Cümle içerisindeki eser adları ve yazı başlıkları için.",
+      "d": "Sıralı cümleleri birbirinden ayırmak için.",
+      "cevap": "Sıralı cümleleri birbirinden ayırmak için."
+    },
+    {
+      "konuAdi": "Anlatım Bozuklukları",
+      "soruMetni": "Aşağıdaki cümlelerin hangisinde nesne eksikliğinden kaynaklanan bir anlatım bozukluğu vardır?",
+      "a": "Ona hem kızıyor hem de seviyordu.",
+      "b": "Kitabı eline aldı, bir süre inceledi.",
+      "c": "Derslerine çalışmıyor, ihmal ediyordu.",
+      "d": "Arkadaşını aradı, uzun süre konuştu.",
+      "cevap": "Derslerine çalışmıyor, ihmal ediyordu."
+    },
+
+    {
+      "konuAdi": "Kamu Görevlileri Etik Davranış İlkeleri",
+      "soruMetni": "'Kamu Görevlileri Etik Davranış İlkeleri ile Başvuru Usul ve Esasları Hakkında Yönetmelik' hükümleri, aşağıdaki kamu görevlilerinden hangisi hakkında uygulanmaz?",
+      "a": "Genel Müdürler",
+      "b": "Belediye Başkanları",
+      "c": "Üniversite Rektörleri",
+      "d": "KİT Yönetim Kurulu Üyeleri",
+      "cevap": "Üniversite Rektörleri"
+    },
+    {
+      "konuAdi": "Halkla İlişkiler Modelleri",
+      "soruMetni": "Grunig ve Hunt'ın halkla ilişkiler modellerinden hangisinde, kuruluş ve hedef kitle arasında karşılıklı anlayışa dayalı, bilimsel araştırmaların kullanıldığı ve dengeli bir iletişim süreci esastır?",
+      "a": "Basın Ajansı / Tanıtım Modeli",
+      "b": "Kamuyu Bilgilendirme Modeli",
+      "c": "İki Yönlü Asimetrik Model",
+      "d": "İki Yönlü Simetrik Model",
+      "cevap": "İki Yönlü Simetrik Model"
+    },
+    {
+      "konuAdi": "Etik - Hediye Alma Yasağı",
+      "soruMetni": "Kamu görevlilerinin hediye alması ile ilgili olarak aşağıdakilerden hangisi 'hediye alma yasağı' kapsamında değerlendirilmez?",
+      "a": "Görev yapılan kurumla iş ilişkisi içinde olanlardan alınan burslar",
+      "b": "Halka açık yarışmalarda, kampanyalarda veya etkinliklerde kazanılan ödüller",
+      "c": "Kamu hizmetinden yararlananların vereceği seyahat ve konaklama imkanları",
+      "d": "Kurumla iş yapanlardan alınan borç veya krediler",
+      "cevap": "Halka açık yarışmalarda, kampanyalarda veya etkinliklerde kazanılan ödüller"
+    },
+    {
+      "konuAdi": "Halkla İlişkiler Süreci",
+      "soruMetni": "Halkla ilişkiler sürecini ifade eden 'RACE' (Araştırma, Eylem, İletişim, Değerleme) formülünde, sorunun tanımlanmasından sonra gelen ve 'Ne yapılmalı?' sorusuna cevap aranan aşama hangisidir?",
+      "a": "Research (Araştırma)",
+      "b": "Action (Eylem/Planlama)",
+      "c": "Communication (İletişim)",
+      "d": "Evaluation (Değerleme)",
+      "cevap": "Action (Eylem/Planlama)"
+    },
+    {
+      "konuAdi": "Etik - Çıkar Çatışması",
+      "soruMetni": "Kamu görevlisinin görevini tarafsız ve objektif şekilde icra etmesini etkileyen ya da etkiliyormuş gibi görünen, kendisine, yakınlarına, arkadaşlarına ya da ilişkide bulunduğu kişi/kuruluşlara sağlanan her türlü menfaat ne olarak tanımlanır?",
+      "a": "Hizmet Kusuru",
+      "b": "Çıkar Çatışması",
+      "c": "Görevi Kötüye Kullanma",
+      "d": "Yetki Aşımı",
+      "cevap": "Çıkar Çatışması"
+    },
+    {
+      "konuAdi": "Kurumsal İtibar Yönetimi",
+      "soruMetni": "Aşağıdakilerden hangisi kurumsal itibarın bileşenlerinden biri değildir?",
+      "a": "Duygusal çekicilik",
+      "b": "Finansal performans",
+      "c": "Ürün ve hizmet kalitesi",
+      "d": "Rakip firmaların başarısızlığı",
+      "cevap": "Rakip firmaların başarısızlığı"
+    },
+    {
+      "konuAdi": "Etik Davranış İlkeleri",
+      "soruMetni": "Yöneticilerin hesap verme sorumluluğu kapsamında aşağıdakilerden hangisi yanlıştır?",
+      "a": "Yöneticiler, kurum kaynaklarının verimli kullanılmasından sorumludur.",
+      "b": "Yöneticiler, personelin etik ilkelere aykırı eylemlerini önlemekle yükümlüdür.",
+      "c": "Yöneticiler sadece kendi eylemlerinden sorumludur, astlarının etik dışı davranışlarından sorumlu tutulamazlar.",
+      "d": "Yöneticiler, yetkilerini hukuk ve etik kuralları çerçevesinde kullanmalıdır.",
+      "cevap": "Yöneticiler sadece kendi eylemlerinden sorumludur, astlarının etik dışı davranışlarından sorumlu tutulamazlar."
+    },
+    {
+      "konuAdi": "Kriz İletişimi",
+      "soruMetni": "Bir kriz anında halkla ilişkiler biriminin yapması gereken ilk ve en kritik hamle aşağıdakilerden hangisidir?",
+      "a": "Suçluyu bulup cezalandırmak",
+      "b": "Medyayı görmezden gelmek",
+      "c": "Doğru, tutarlı ve hızlı bir şekilde kamuoyunu bilgilendirmek",
+      "d": "Kriz bitene kadar sessiz kalmak",
+      "cevap": "Doğru, tutarlı ve hızlı bir şekilde kamuoyunu bilgilendirmek"
+    },
+    {
+      "konuAdi": "Etik Kurulu",
+      "soruMetni": "Kamu Görevlileri Etik Kurulu üyeleri kim tarafından seçilir ve atanır?",
+      "a": "TBMM",
+      "b": "Cumhurbaşkanı",
+      "c": "Yargıtay",
+      "d": "Danıştay",
+      "cevap": "Cumhurbaşkanı"
+    },
+    {
+      "konuAdi": "Pazarlama Halkla İlişkiler (MPR)",
+      "soruMetni": "Pazarlama hedeflerine ulaşmak için ürün tanıtımını ve satışını doğrudan destekleyen halkla ilişkiler faaliyetlerine ne ad verilir?",
+      "a": "Kurumsal Halkla İlişkiler (CPR)",
+      "b": "Pazarlama Halkla İlişkileri (MPR)",
+      "c": "Lobicilik",
+      "d": "Finansal Halkla İlişkiler",
+      "cevap": "Pazarlama Halkla İlişkileri (MPR)"
+    },
+    {
+      "konuAdi": "Etik - Saygınlık ve Güven",
+      "soruMetni": "Kamu görevlilerinin, kamu yönetimine güveni sağlayacak şekilde davranması ve görevin gerektirdiği itibar ve güvene layık olduklarını davranışlarıyla göstermesi hangi etik ilkeyle ifade edilir?",
+      "a": "Dürüstlük ve Tarafsızlık",
+      "b": "Saygınlık ve Güven",
+      "c": "Nezaket ve Saygı",
+      "d": "Yetkili Makamlara Bildirim",
+      "cevap": "Saygınlık ve Güven"
+    },
+    {
+      "konuAdi": "Halkla İlişkilerde Hedef Kitle",
+      "soruMetni": "Bir kurumun 'iç hedef kitlesi' olarak tanımlanan grup aşağıdakilerden hangisidir?",
+      "a": "Müşteriler",
+      "b": "Medya mensupları",
+      "c": "Kurum çalışanları ve hissedarlar",
+      "d": "Tedarikçiler",
+      "cevap": "Kurum çalışanları ve hissedarlar"
+    },
+    {
+      "konuAdi": "Etik - Yasaklanan Faaliyetler",
+      "soruMetni": "Eski kamu görevlilerinin, görevlerinden ayrıldıktan sonra kurumlarıyla ilgili iş yapma yasakları ne kadar süreyle geçerlidir (Kamu Görevlileri Etik Kanunu kapsamı dışında, 2531 sayılı kanuna atıfla)?",
+      "a": "1 yıl",
+      "b": "2 yıl",
+      "c": "3 yıl",
+      "d": "5 yıl",
+      "cevap": "3 yıl"
+    },
+    {
+      "konuAdi": "Sponsorluk",
+      "soruMetni": "Halkla ilişkiler aracı olarak sponsorluk ile reklam arasındaki en temel fark nedir?",
+      "a": "Sponsorluk daha maliyetlidir.",
+      "b": "Reklamda mesaj üzerinde tam kontrol varken, sponsorlukta imaj transferi ve dolaylı etki esastır.",
+      "c": "Sponsorluk sadece spor alanında yapılır.",
+      "d": "Reklam uzun vadelidir, sponsorluk kısa vadelidir.",
+      "cevap": "Reklamda mesaj üzerinde tam kontrol varken, sponsorlukta imaj transferi ve dolaylı etki esastır."
+    },
+    {
+      "konuAdi": "Etik - Hediye Alma Yasağı İstisnası",
+      "soruMetni": "Aşağıdakilerden hangisi kamu görevlilerinin hediye alma yasağının istisnalarından (alabilecekleri hediyelerden) biridir?",
+      "a": "Hizmetten yararlananların vereceği giysiler",
+      "b": "Kitap, dergi, makale, kaset, takvim, cd veya benzeri nitelikteki yayınlar",
+      "c": "Yılbaşı ve bayram hediyeleri",
+      "d": "Taşınır veya taşınmaz mal kullanımı",
+      "cevap": "Kitap, dergi, makale, kaset, takvim, cd veya benzeri nitelikteki yayınlar"
+    },
+    {
+      "konuAdi": "Halkla İlişkiler ve Propaganda",
+      "soruMetni": "Halkla ilişkiler ile propaganda arasındaki en belirgin fark aşağıdakilerden hangisidir?",
+      "a": "Halkla ilişkiler tek yönlüdür, propaganda çift yönlüdür.",
+      "b": "Halkla ilişkilerde doğruluk ve dürüstlük esas iken, propagandada amaç uğruna gerçekler çarpıtılabilir.",
+      "c": "Propaganda sadece ticari kurumlar tarafından yapılır.",
+      "d": "Halkla ilişkilerde beyin yıkama teknikleri kullanılır.",
+      "cevap": "Halkla ilişkilerde doğruluk ve dürüstlük esas iken, propagandada amaç uğruna gerçekler çarpıtılabilir."
+    },
+    {
+      "konuAdi": "Etik - Mal Bildirimi",
+      "soruMetni": "Kamu görevlilerinin haksız mal edinmelerini önlemek amacıyla uygulanan 'Mal Bildirimi' ilkesi gereği, görevliler mal varlıklarındaki önemli değişiklikleri ne zaman bildirmek zorundadır?",
+      "a": "Her yılın Ocak ayında",
+      "b": "Değişiklik olduğunda 1 ay içinde",
+      "c": "5 yılda bir",
+      "d": "Emekli olurken",
+      "cevap": "Değişiklik olduğunda 1 ay içinde"
+    },
+    {
+      "konuAdi": "Kurumsal Sosyal Sorumluluk",
+      "soruMetni": "Bir kurumun toplumsal sorunlara duyarlı olması ve bu sorunların çözümüne katkıda bulunması halkla ilişkilerin hangi boyutuyla ilgilidir?",
+      "a": "Lobicilik",
+      "b": "Kurumsal Sosyal Sorumluluk",
+      "c": "Basınla İlişkiler",
+      "d": "Yatırımcı İlişkileri",
+      "cevap": "Kurumsal Sosyal Sorumluluk"
+    },
+    {
+      "konuAdi": "Etik - Görev ve Yetkilerin Kullanımı",
+      "soruMetni": "Kamu görevlilerinin, seçim çalışmalarına katılmalarıyla ilgili etik kural aşağıdakilerden hangisidir?",
+      "a": "Mesai saatleri dışında katılabilirler.",
+      "b": "Sadece üyesi oldukları partinin çalışmalarına katılabilirler.",
+      "c": "Görev ve yetkilerini kullanarak herhangi bir siyasi parti veya kişi lehine/aleyhine faaliyette bulunamazlar.",
+      "d": "Amirinin izniyle katılabilirler.",
+      "cevap": "Görev ve yetkilerini kullanarak herhangi bir siyasi parti veya kişi lehine/aleyhine faaliyette bulunamazlar."
+    },
+    {
+      "konuAdi": "Halkla İlişkiler Araçları",
+      "soruMetni": "Aşağıdakilerden hangisi halkla ilişkilerde kullanılan yazılı iletişim araçlarından biri değildir?",
+      "a": "Basın bülteni",
+      "b": "Kurum içi bülten (House Organ)",
+      "c": "Pankartlar",
+      "d": "Basın toplantısı",
+      "cevap": "Basın toplantısı"
+    },
+    {
+      "konuAdi": "Etik - Kamu Mallarının Kullanımı",
+      "soruMetni": "Kamu bina ve taşıtları ile diğer kamu malları ve kaynaklarının kullanımıyla ilgili etik ilke hangisidir?",
+      "a": "Sadece mesai saatleri içinde özel işlerde kullanılabilir.",
+      "b": "Tasarruf tedbirlerine riayet edilmez.",
+      "c": "Kamu amaçları dışında kullanılamaz ve özel işlerde kullanılamaz.",
+      "d": "Yöneticiler dilediği gibi kullanabilir.",
+      "cevap": "Kamu amaçları dışında kullanılamaz ve özel işlerde kullanılamaz."
+    },
+    {
+      "konuAdi": "İletişim Süreci",
+      "soruMetni": "İletişim sürecinde, alıcının kaynağa gönderdiği mesaja verdiği tepkiye ne ad verilir?",
+      "a": "Kodlama",
+      "b": "Gürültü",
+      "c": "Geri Bildirim (Feedback)",
+      "d": "Kanal",
+      "cevap": "Geri Bildirim (Feedback)"
+    },
+    {
+      "konuAdi": "Etik - Yetkili Makamlar",
+      "soruMetni": "Etik davranış ilkelerine aykırı uygulamalar hakkında yapılacak ihbar ve şikayetlerde kimliğin gizli tutulması ile ilgili kural nedir?",
+      "a": "Kimlik gizli tutulmaz, şikayet edilen kişiye bildirilir.",
+      "b": "Muhbirlerin kimlikleri saklı tutulur.",
+      "c": "Sadece yargı aşamasında gizli tutulur.",
+      "d": "Kimliksiz başvuru yapılamaz, bu yüzden gizlilik yoktur.",
+      "cevap": "Muhbirlerin kimlikleri saklı tutulur."
+    },
+    {
+      "konuAdi": "Halkla İlişkiler Tanımı",
+      "soruMetni": "Uluslararası Halkla İlişkiler Derneği'nin (IPRA) tanımına göre halkla ilişkiler nasıl bir faaliyettir?",
+      "a": "Sadece medyada haber çıkartma faaliyetidir.",
+      "b": "Yönetim fonksiyonu olan sürekli ve planlı bir çalışmadır.",
+      "c": "Ürünlerin doğrudan satışını sağlayan tekniktir.",
+      "d": "Siyasi propaganda aracıdır.",
+      "cevap": "Yönetim fonksiyonu olan sürekli ve planlı bir çalışmadır."
+    },
+    {
+      "konuAdi": "Etik - Bağlayıcılık",
+      "soruMetni": "Kamu görevlileri, göreve başlarken etik davranış ilkelerine uyacaklarını taahhüt etmek için hangi belgeyi imzalarlar?",
+      "a": "Devlet Memurları Yemini",
+      "b": "Gizlilik Sözleşmesi",
+      "c": "Kamu Görevlileri Etik Sözleşmesi",
+      "d": "İş Akdi",
+      "cevap": "Kamu Görevlileri Etik Sözleşmesi"
+    },
+
+    {
+      "konuAdi": "Amaç ve Kapsam",
+      "soruMetni": "4982 sayılı Bilgi Edinme Hakkı Kanunu'nun amacı aşağıdakilerden hangisidir?",
+      "a": "Kamu kurumlarının arşivlerini düzenlemek",
+      "b": "Demokratik ve şeffaf yönetimin gereği olarak, eşitlik, tarafsızlık ve açıklık ilkelerine uygun olarak kişilerin bilgi edinme hakkını kullanmalarını sağlamak",
+      "c": "Devlet sırlarını korumak ve güvenliği sağlamak",
+      "d": "Kamu personelinin özlük haklarını düzenlemek",
+      "cevap": "Demokratik ve şeffaf yönetimin gereği olarak, eşitlik, tarafsızlık ve açıklık ilkelerine uygun olarak kişilerin bilgi edinme hakkını kullanmalarını sağlamak"
+    },
+    {
+      "konuAdi": "Bilgi Edinme Hakkı",
+      "soruMetni": "4982 sayılı Kanun'a göre, Türkiye'de ikamet eden yabancıların bilgi edinme hakkından yararlanabilmeleri hangi şarta bağlanmıştır?",
+      "a": "Türkçe bilmeleri ve çalışma iznine sahip olmaları",
+      "b": "İstedikleri bilginin kendileriyle veya faaliyet alanlarıyla ilgili olması ve karşılıklılık ilkesinin bulunması",
+      "c": "En az 5 yıldır Türkiye'de ikamet ediyor olmaları",
+      "d": "Sadece ticari nitelikteki bilgileri talep etmeleri",
+      "cevap": "İstedikleri bilginin kendileriyle veya faaliyet alanlarıyla ilgili olması ve karşılıklılık ilkesinin bulunması"
+    },
+    {
+      "konuAdi": "Bilgi Verme Yükümlülüğü",
+      "soruMetni": "Kurum ve kuruluşlar, bilgi edinme başvurularıyla ilgili olarak aşağıdakilerden hangisini yapmakla yükümlü değildir?",
+      "a": "Başvuru sahibine istenen belgenin onaylı bir kopyasını vermek",
+      "b": "Belgenin niteliği kopyasının verilmesine imkan vermiyorsa, başvuru sahibinin belgeyi incelemesini sağlamak",
+      "c": "İstenen bilgi veya belge, kurumun kayıtlarında yoksa, bu bilgiyi üretmek veya oluşturmak",
+      "d": "Elektronik ortamdaki bilgi veya belgeleri erişime açmak",
+      "cevap": "İstenen bilgi veya belge, kurumun kayıtlarında yoksa, bu bilgiyi üretmek veya oluşturmak"
+    },
+    {
+      "konuAdi": "Başvuru Usulü",
+      "soruMetni": "Bilgi edinme başvurusunda bulunacak gerçek kişilerin dilekçelerinde aşağıdakilerden hangisinin bulunması zorunlu değildir?",
+      "a": "Başvuru sahibinin adı ve soyadı",
+      "b": "İmzası",
+      "c": "Oturma yeri veya iş adresi",
+      "d": "T.C. kimlik numarası (Yabancılar için pasaport numarası) dışında öğrenim durumu",
+      "cevap": "T.C. kimlik numarası (Yabancılar için pasaport numarası) dışında öğrenim durumu"
+    },
+    {
+      "konuAdi": "Başvuruların Cevaplandırılması",
+      "soruMetni": "Kurum ve kuruluşlar, bilgi edinme başvurularını kural olarak kaç iş günü içinde sonuçlandırmak zorundadır?",
+      "a": "7 gün",
+      "b": "15 iş günü",
+      "c": "30 iş günü",
+      "d": "60 gün",
+      "cevap": "15 iş günü"
+    },
+    {
+      "konuAdi": "Başvuru Süresi Uzatımı",
+      "soruMetni": "İstenen bilgi veya belgenin sağlanması; başka bir kurumdan görüş alınmasını gerektiriyorsa veya başvuru içeriği birden fazla kurumu ilgilendiriyorsa, cevaplama süresi ne kadar uzatılabilir?",
+      "a": "10 iş günü",
+      "b": "15 iş günü",
+      "c": "30 gün",
+      "d": "45 gün",
+      "cevap": "15 iş günü"
+    },
+    {
+      "konuAdi": "Bilgi Edinme Ücreti",
+      "soruMetni": "Bilgi edinme hakkı kapsamında talep edilen belgelerin kopyalarının verilmesi gerekiyorsa, kurumun talep edebileceği ücret ile ilgili hangisi doğrudur?",
+      "a": "Her türlü bilgi ve belge ücretsizdir.",
+      "b": "Kurum, maliyet tutarını aşmamak üzere inceleme ve araştırma maliyetlerini de dahil ederek bir ücret belirleyebilir.",
+      "c": "Kurum amiri keyfi olarak bir ücret belirleyebilir.",
+      "d": "Sadece posta masrafı talep edilebilir.",
+      "cevap": "Kurum, maliyet tutarını aşmamak üzere inceleme ve araştırma maliyetlerini de dahil ederek bir ücret belirleyebilir."
+    },
+    {
+      "konuAdi": "Bilgi Edinme Hakkının Sınırları",
+      "soruMetni": "Aşağıdakilerden hangisi bilgi edinme hakkı kapsamı dışındadır?",
+      "a": "Kurumun faaliyet raporları",
+      "b": "Yargı denetimine açık olan idari işlemler",
+      "c": "Yargı denetimi dışında kalan işlemler (Sadece işlemin nedenleri ve sonuçları bakımından)",
+      "d": "Tavsiye ve mütalaa talepleri",
+      "cevap": "Tavsiye ve mütalaa talepleri"
+    },
+    {
+      "konuAdi": "Devlet Sırrı",
+      "soruMetni": "4982 sayılı Kanun'a göre, açıklanması hâlinde devletin emniyetine, dış ilişkilerine, milli savunmasına ve milli güvenliğine açıkça zarar verecek nitelikteki bilgi ve belgeler ile ilgili düzenleme nasıldır?",
+      "a": "Bu belgeler kısmen de olsa verilemez.",
+      "b": "Bu bilgi ve belgeler kanun kapsamı dışındadır.",
+      "c": "Yargı kararı varsa verilebilir.",
+      "d": "Sadece ilgili bakanın izniyle verilebilir.",
+      "cevap": "Bu bilgi ve belgeler kanun kapsamı dışındadır."
+    },
+    {
+      "konuAdi": "Ekonomik Çıkarlar",
+      "soruMetni": "Açıklanması ya da zamanından önce açıklanması hâlinde, ülkenin ekonomik çıkarlarına zarar verecek veya haksız rekabet ve kazanca sebep olacak bilgi veya belgeler ile ilgili hangisi doğrudur?",
+      "a": "Her durumda açıklanır.",
+      "b": "Bu bilgi veya belgeler kanun kapsamı dışındadır.",
+      "c": "İlgili şirketlerin izniyle açıklanır.",
+      "d": "Sadece akademik araştırmalar için verilir.",
+      "cevap": "Bu bilgi veya belgeler kanun kapsamı dışındadır."
+    },
+    {
+      "konuAdi": "Özel Hayatın Gizliliği",
+      "soruMetni": "Kişinin izin verdiği haller saklı kalmak üzere, özel hayatın gizliliği kapsamında, kişinin sağlık bilgileri, özel ve aile hayatına, şeref ve haysiyetine ilişkin bilgiler açıklanabilir mi?",
+      "a": "Hayır, kanun kapsamı dışındadır.",
+      "b": "Evet, kamu yararı varsa açıklanır.",
+      "c": "Kamu yararı, kişinin zararından üstün ise açıklanabilir, ancak sağlık bilgileri hariçtir.",
+      "d": "Sadece mahkeme kararıyla açıklanır.",
+      "cevap": "Hayır, kanun kapsamı dışındadır."
+    },
+    {
+      "konuAdi": "Haberleşmenin Gizliliği",
+      "soruMetni": "Haberleşmenin gizliliği esasını ihlal edecek bilgi veya belgeler bilgi edinme hakkı kapsamında mıdır?",
+      "a": "Evet, her zaman.",
+      "b": "Hayır, bu bilgi ve belgeler kanun kapsamı dışındadır.",
+      "c": "Sadece göndericinin izniyle kapsamdadır.",
+      "d": "Sadece alıcının izniyle kapsamdadır.",
+      "cevap": "Hayır, bu bilgi ve belgeler kanun kapsamı dışındadır."
+    },
+    {
+      "konuAdi": "Fikir ve Sanat Eserleri",
+      "soruMetni": "Fikir ve sanat eserlerine ilişkin bilgi veya belge talepleri hakkında ne uygulanır?",
+      "a": "Doğrudan reddedilir.",
+      "b": "Fikir ve Sanat Eserleri Kanunu hükümleri saklı kalmak kaydıyla bilgi verilir.",
+      "c": "Eser sahibinin yazılı izni olmadan bilgi verilemez.",
+      "d": "Telif ücreti ödenirse verilir.",
+      "cevap": "Fikir ve Sanat Eserleri Kanunu hükümleri saklı kalmak kaydıyla bilgi verilir."
+    },
+    {
+      "konuAdi": "İtiraz Usulü",
+      "soruMetni": "Bilgi edinme istemi reddedilen başvuru sahibi, ret kararının tebliğinden itibaren kaç gün içinde Bilgi Edinme Değerlendirme Kurulu'na itiraz edebilir?",
+      "a": "7 gün",
+      "b": "15 gün",
+      "c": "30 gün",
+      "d": "60 gün",
+      "cevap": "15 gün"
+    },
+    {
+      "konuAdi": "Yargı Yolu",
+      "soruMetni": "Bilgi Edinme Değerlendirme Kurulu'na itiraz edilmeden doğrudan idari yargıya başvurulabilir mi?",
+      "a": "Hayır, zorunlu idari başvuru yoludur.",
+      "b": "Evet, başvuru sahibi isterse Kurul'a gitmeden doğrudan yargı yoluna başvurabilir.",
+      "c": "Sadece tüzel kişiler doğrudan başvurabilir.",
+      "d": "Sadece devlet memurları doğrudan başvurabilir.",
+      "cevap": "Evet, başvuru sahibi isterse Kurul'a gitmeden doğrudan yargı yoluna başvurabilir."
+    },
+    {
+      "konuAdi": "Bilgi Edinme Değerlendirme Kurulu",
+      "soruMetni": "Bilgi Edinme Değerlendirme Kurulu, itiraz başvurularını (kurumdan istenen belgelerin gelmesinden itibaren) kaç iş günü içinde karara bağlar?",
+      "a": "10 iş günü",
+      "b": "15 iş günü",
+      "c": "30 iş günü",
+      "d": "60 iş günü",
+      "cevap": "30 iş günü"
+    },
+    {
+      "konuAdi": "Kurul Üyeleri",
+      "soruMetni": "Bilgi Edinme Değerlendirme Kurulu üyeleri kim tarafından seçilir?",
+      "a": "TBMM",
+      "b": "Cumhurbaşkanı",
+      "c": "Adalet Bakanı",
+      "d": "Danıştay Başkanı",
+      "cevap": "Cumhurbaşkanı"
+    },
+    {
+      "konuAdi": "Kurulun Görevleri",
+      "soruMetni": "Aşağıdakilerden hangisi Bilgi Edinme Değerlendirme Kurulu'nun görevlerinden biri değildir?",
+      "a": "İtirazları karara bağlamak",
+      "b": "Kurumlar için bilgi edinme hakkının kullanılmasına ilişkin rapor hazırlamak",
+      "c": "Bilgi edinme hakkının kullanımını engelleyen kamu görevlilerine disiplin cezası vermek",
+      "d": "Her yıl hazırlanan raporu TBMM'ye sunmak",
+      "cevap": "Bilgi edinme hakkının kullanımını engelleyen kamu görevlilerine disiplin cezası vermek"
+    },
+    {
+      "konuAdi": "Raporlama",
+      "soruMetni": "Kurum ve kuruluşlar, bir önceki yıla ait bilgi edinme başvurularıyla ilgili raporlarını her yıl en geç hangi ayın sonuna kadar Bilgi Edinme Değerlendirme Kurulu'na gönderirler?",
+      "a": "Ocak",
+      "b": "Şubat",
+      "c": "Mart",
+      "d": "Nisan",
+      "cevap": "Şubat"
+    },
+    {
+      "konuAdi": "TBMM'ye Rapor",
+      "soruMetni": "Bilgi Edinme Değerlendirme Kurulu, kurumlardan gelen raporları değerlendirerek hazırladığı genel raporu, her yıl en geç hangi ayın sonuna kadar TBMM'ye gönderir?",
+      "a": "Mart",
+      "b": "Nisan",
+      "c": "Mayıs",
+      "d": "Haziran",
+      "cevap": "Nisan"
+    },
+    {
+      "konuAdi": "Ceza Hükümleri",
+      "soruMetni": "4982 sayılı Kanun'a göre, bilgi edinme hakkını engelleyen kamu görevlileri hakkında hangi kanuna göre işlem yapılır?",
+      "a": "Sadece idari para cezası uygulanır.",
+      "b": "Genel hükümlere (TCK ve Disiplin Mevzuatı) göre ceza ve disiplin soruşturması açılır.",
+      "c": "Doğrudan görevden alınırlar.",
+      "d": "Hakkında işlem yapılmaz, sadece uyarılırlar.",
+      "cevap": "Genel hükümlere (TCK ve Disiplin Mevzuatı) göre ceza ve disiplin soruşturması açılır."
+    },
+    {
+      "konuAdi": "Kurum İçi Düzenlemeler",
+      "soruMetni": "Kurum içi görüş, bilgi notu ve tavsiyeler bilgi edinme hakkı kapsamında mıdır?",
+      "a": "Hayır, kapsam dışındadır.",
+      "b": "Evet, her zaman kapsamdadır.",
+      "c": "Kurumun nihai kararına dayanak teşkil etmesi kaydıyla kapsamdadır.",
+      "d": "Sadece kurum personeli talep edebilir.",
+      "cevap": "Hayır, kapsam dışındadır."
+    },
+    {
+      "konuAdi": "Gizli Bilgilerin Ayıklanması",
+      "soruMetni": "İstenen belgenin içinde gizli bilgiler varsa kurum nasıl hareket etmelidir?",
+      "a": "Belgenin tamamını vermeyi reddeder.",
+      "b": "Gizli bilgileri ayırarak (karartarak) kalan kısmı verir ve ayırma gerekçesini yazılı olarak bildirir.",
+      "c": "Belgeyi sadece okutur, kopyasını vermez.",
+      "d": "Belgeyi yeniden düzenleyerek özetini verir.",
+      "cevap": "Gizli bilgileri ayırarak (karartarak) kalan kısmı verir ve ayırma gerekçesini yazılı olarak bildirir."
+    },
+    {
+      "konuAdi": "Yargı Denetimi Dışı İşlemler",
+      "soruMetni": "Yargı denetimi dışında kalan idari işlemlerden, kişinin çalışma hayatını ve mesleki onurunu etkileyenler hakkında bilgi istenebilir mi?",
+      "a": "Hayır, yargı denetimi dışındaysa istenemez.",
+      "b": "Evet, bu işlemler hakkındaki bilgi ve belgeler bilgi edinme hakkı kapsamındadır.",
+      "c": "Sadece mahkeme kararıyla istenebilir.",
+      "d": "Sadece sendikalar isteyebilir.",
+      "cevap": "Evet, bu işlemler hakkındaki bilgi ve belgeler bilgi edinme hakkı kapsamındadır."
+    },
+    {
+      "konuAdi": "Sivil İstihbarat",
+      "soruMetni": "Sivil istihbarat birimlerinin görev ve faaliyetlerine ilişkin bilgi ve belgeler bilgi edinme hakkı kapsamında mıdır?",
+      "a": "Evet, şeffaflık gereği kapsamdadır.",
+      "b": "Hayır, bu bilgi ve belgeler kanun kapsamı dışındadır.",
+      "c": "Kişilerin çalışma hayatını ve mesleki onurunu etkileyenler hariç olmak üzere kapsam dışındadır.",
+      "d": "Sadece TBMM talep edebilir.",
+      "cevap": "Kişilerin çalışma hayatını ve mesleki onurunu etkileyenler hariç olmak üzere kapsam dışındadır."
+    }
+
+]
