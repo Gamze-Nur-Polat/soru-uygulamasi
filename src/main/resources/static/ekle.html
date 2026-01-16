@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <title>Soru Ekle</title>
+  <style>
+    body { font-family: sans-serif; background-color: #f4f4f9; padding: 20px; display: flex; justify-content: center; }
+    .panel { background: white; padding: 30px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); width: 400px; }
+    h2 { text-align: center; color: #333; }
+    label { font-weight: bold; display: block; margin-top: 10px; }
+    input, select, textarea { width: 100%; padding: 10px; margin-top: 5px; border: 1px solid #ddd; border-radius: 5px; box-sizing: border-box;}
+    button { background-color: #27ae60; color: white; padding: 12px; border: none; width: 100%; margin-top: 20px; border-radius: 5px; cursor: pointer; font-size: 16px; }
+    button:hover { background-color: #219150; }
+    .basari { color: green; text-align: center; margin-top: 10px; font-weight: bold; display: none;}
+  </style>
+</head>
+<body>
+
+<div class="panel">
+  <h2>Yeni Soru Ekle ➕</h2>
+
+  <label>Soru Metni:</label>
+  <textarea id="soruMetni" rows="3" placeholder="Soruyu buraya yaz..."></textarea>
+
+  <label>A Şıkkı:</label>
+  <input type="text" id="secenekA">
+
+  <label>B Şıkkı:</label>
+  <input type="text" id="secenekB">
+
+  <label>C Şıkkı:</label>
+  <input type="text" id="secenekC">
+
+  <label>D Şıkkı:</label>
+  <input type="text" id="secenekD">
+
+  <label>Doğru Cevap (Metin Olarak):</label>
+  <input type="text" id="dogruCevap" placeholder="Örn: Ankara">
+  <button onclick="kaydet()">Soruyu Kaydet</button>
+  <div id="mesaj" class="basari">Soru başarıyla eklendi! 🎉</div>
+
+  <br><br>
+  <a href="index.html" style="display:block; text-align:center; text-decoration:none; color:#3498db;">← Sınava Dön</a>
+</div>
+
+<script>
+  function kaydet() {
+    // Formdaki verileri al
+    let veri = {
+      soruMetni: document.getElementById("soruMetni").value,
+      secenekA: document.getElementById("secenekA").value,
+      secenekB: document.getElementById("secenekB").value,
+      secenekC: document.getElementById("secenekC").value,
+      secenekD: document.getElementById("secenekD").value,
+      dogruCevap: document.getElementById("dogruCevap").value,
+      konu: { id: 1 } // Şimdilik hepsini "Genel Kültür" konusuna (ID=1) ekliyoruz
+    };
+
+    // Backend'e gönder
+    fetch('/api/sorular', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(veri)
+    })
+            .then(response => {
+              if(response.ok) {
+                document.getElementById("mesaj").style.display = "block";
+                // Kutuları temizle
+                document.getElementById("soruMetni").value = "";
+                document.getElementById("secenekA").value = "";
+                document.getElementById("secenekB").value = "";
+                document.getElementById("secenekC").value = "";
+                document.getElementById("secenekD").value = "";
+                document.getElementById("dogruCevap").value = "";
+
+                // 3 saniye sonra mesajı gizle
+                setTimeout(() => document.getElementById("mesaj").style.display = "none", 3000);
+              } else {
+                alert("Hata oluştu! Lütfen tüm alanları doldur.");
+              }
+            });
+  }
+</script>
+
+</body>
+</html>

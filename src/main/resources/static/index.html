@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>Sınav Modu</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #eef2f3;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .kart {
+            background: white;
+            padding: 40px;
+            border-radius: 20px;
+            box-shadow: 0 15px 30px rgba(0,0,0,0.1);
+            width: 500px;
+            text-align: center;
+        }
+        .soru-kutusu {
+            font-size: 22px;
+            color: #2c3e50;
+            margin: 20px 0 40px 0;
+            font-weight: 600;
+        }
+        .secenekler-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr; /* Yan yana 2 buton */
+            gap: 15px;
+        }
+        .btn-sik {
+            padding: 15px;
+            border: 2px solid #e0e0e0;
+            background-color: white;
+            border-radius: 12px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: 0.2s;
+            color: #555;
+            font-weight: 500;
+        }
+        .btn-sik:hover {
+            background-color: #f8f9fa;
+            border-color: #bdc3c7;
+        }
+        /* Doğru/Yanlış Renkleri */
+        .dogru { background-color: #d4edda !important; border-color: #28a745 !important; color: #155724 !important; }
+        .yanlis { background-color: #f8d7da !important; border-color: #dc3545 !important; color: #721c24 !important; }
+
+        .bilgi-notu {
+            margin-top: 20px;
+            font-size: 14px;
+            color: #888;
+            height: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="kart">
+    <div style="color: #3498db; font-weight: bold; font-size: 14px;">SORU #<span id="soru-id">-</span></div>
+
+    <div id="soru" class="soru-kutusu">Soru yükleniyor...</div>
+
+    <div class="secenekler-grid">
+        <button class="btn-sik" id="btnA" onclick="kontrolEt('A')">A</button>
+        <button class="btn-sik" id="btnB" onclick="kontrolEt('B')">B</button>
+        <button class="btn-sik" id="btnC" onclick="kontrolEt('C')">C</button>
+        <button class="btn-sik" id="btnD" onclick="kontrolEt('D')">D</button>
+    </div>
+
+    <div id="sonuc-mesaji" class="bilgi-notu"></div>
+</div>
+
+<script>
+    let aktifSoru = null;
+    let tiklamaKilitli = false; // Kullanıcı üst üste basamasın diye
+
+    window.onload = soruGetir;
+
+    function soruGetir() {
+        tiklamaKilitli = false;
+        document.getElementById('sonuc-mesaji').innerText = "";
+
+        // Buton renklerini sıfırla
+        let butonlar = document.getElementsByClassName('btn-sik');
+        for(let btn of butonlar) {
+            btn.className = 'btn-sik';
+        }
+
+        fetch('/api/sorular/siradaki')
+            .then(res => res.json())
+            .then(data => {
+                aktifSoru = data;
+                document.getElementById('soru-id').innerText = data.id;
+                document.getElementById('soru').innerText = data.soruMetni;
+
+                // Şıkları butonlara yaz
+                document.getElementById('btnA').innerText = data.secenekA;
+                document.getElementById('btnB').innerText = data.secenekB;
+                document.getElementById('btnC').innerText = data.secenekC;
+                document.getElementById('btnD').innerText = data.secenekD;
+            });
+    }
+
+    function kontrolEt(secilenSikHarfi) {
+        if(tiklamaKilitli) return; // Zaten basıldıysa işlem yapma
+        tiklamaKilitli = true;
+
+        // Hangi butona tıklandı?
+        let secilenButon = document.getElementById('btn' + secilenSikHarfi);
+        let secilenCevapMetni = secilenButon.innerText;
+
+        let dogruMu = (secilenCevapMetni === aktifSoru.dogruCevap);
+
+        // Renklendirme Yap
+        if(dogruMu) {
+            secilenButon.classList.add('dogru');
+            document.getElementById('sonuc-mesaji').innerText = "Tebrikler! Doğru cevap.";
+        } else {
+            secilenButon.classList.add('yanlis');
+            document.getElementById('sonuc-mesaji').innerText = "Maalesef yanlış. Doğrusu: " + aktifSoru.dogruCevap;
+        }
+
+        // Backend'e sonucu bildir
+        fetch(`/api/sorular/cevapla?id=${aktifSoru.id}&dogruMu=${dogruMu}`)
+            .then(() => {
+                // 1.5 saniye sonra yeni soruya geç
+                setTimeout(soruGetir, 1500);
+            });
+    }
+</script>
+
+</body>
+</html>
