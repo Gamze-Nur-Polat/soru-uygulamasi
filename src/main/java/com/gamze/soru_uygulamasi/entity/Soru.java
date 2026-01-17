@@ -13,16 +13,24 @@ public class Soru {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    @Column(nullable = false)
+    // DEĞİŞİKLİK BURADA: length = 2000 yaptık (Sığmayan sorular için)
+    @Column(nullable = false, length = 2000)
     private String soruMetni;
 
     @Column(nullable = false)
-    private String dogruCevap; // Örn: "4"
+    private String dogruCevap;
 
-    // YENİ EKLENEN ŞIKLAR
+    // Şıklar da bazen uzun olabilir, onları da 500 yaptık garanti olsun
+    @Column(length = 500)
     private String secenekA;
+
+    @Column(length = 500)
     private String secenekB;
+
+    @Column(length = 500)
     private String secenekC;
+
+    @Column(length = 500)
     private String secenekD;
 
     private int zorlukSeviyesi = 1;
